@@ -8,26 +8,26 @@
 
 > 우선 워밍업으로 [Algorithms in JavaScript: 40 Problems](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 에 대한 `40문제`를 풀어보자 🚀
 
-### Contents
+### Problems
 
-| #Problem |         Themes         |
-| :------: | :--------------------: |
-|  Intro   |         Prime          |
-|    01    |    String Reversal     |
-|    02    |       Palindrome       |
-|    03    |    Integer Reversal    |
-|    04    |       Fizz Buzz        |
-|    05    |     Max Character      |
-|    06    |        Anagrams        |
-|    07    |         Vowels         |
-|    08    |     Array Chunking     |
-|    09    |     Reverse Array      |
-|    10    |     Reverse Words      |
-|    11    |     Capitalization     |
-|    12    |     Caesar Cipher      |
-|    13    |      Ransom Note       |
-|    14    | Mean, Median, and Mode |
-|    15    |        Two Sum         |
+| #Problem |         Themes         |              Code              |
+| :------: | :--------------------: | :----------------------------: |
+|  Intro   |         Prime          |      [✔](basic/prime.js)       |
+|    01    |    String Reversal     |  [✔](basic/string-reveral.js)  |
+|    02    |       Palindrome       |    [✔](basic/palindrome.js)    |
+|    03    |    Integer Reversal    | [✔](basic/integer-reversal.js) |
+|    04    |       Fizz Buzz        |     [✔](basic/fizzbuzz.js)     |
+|    05    |     Max Character      |  [✔](basic/max-character.js)   |
+|    06    |        Anagrams        |                                |
+|    07    |         Vowels         |                                |
+|    08    |     Array Chunking     |                                |
+|    09    |     Reverse Array      |                                |
+|    10    |     Reverse Words      |                                |
+|    11    |     Capitalization     |                                |
+|    12    |     Caesar Cipher      |                                |
+|    13    |      Ransom Note       |                                |
+|    14    | Mean, Median, and Mode |                                |
+|    15    |        Two Sum         |                                |
 
 ## Data Structure
 
