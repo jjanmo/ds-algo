@@ -18,7 +18,7 @@
 |    03    |    Integer Reversal    | [✔](basic/integer-reversal.js) |
 |    04    |       Fizz Buzz        |     [✔](basic/fizzbuzz.js)     |
 |    05    |     Max Character      |  [✔](basic/max-character.js)   |
-|    06    |        Anagrams        |                                |
+|    06    |        Anagrams        |     [✔](basic/anagrams.js)     |
 |    07    |         Vowels         |                                |
 |    08    |     Array Chunking     |                                |
 |    09    |     Reverse Array      |                                |
