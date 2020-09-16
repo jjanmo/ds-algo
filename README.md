@@ -19,9 +19,9 @@
 |    04    |       Fizz Buzz        |     [✔](basic/fizzbuzz.js)     |
 |    05    |     Max Character      |  [✔](basic/max-character.js)   |
 |    06    |        Anagrams        |     [✔](basic/anagrams.js)     |
-|    07    |         Vowels         |                                |
-|    08    |     Array Chunking     |                                |
-|    09    |     Reverse Array      |                                |
+|    07    |         Vowels         |      [✔](basic/vowels.js)      |
+|    08    |     Array Chunking     |  [✔](basic/array-chunking.js)  |
+|    09    |     Reverse Array      |  [✔](basic/reverse-array.js)   |
 |    10    |     Reverse Words      |                                |
 |    11    |     Capitalization     |                                |
 |    12    |     Caesar Cipher      |                                |
