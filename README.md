@@ -22,10 +22,10 @@
 |    07    |         Vowels         |      [✔](basic/vowels.js)      |
 |    08    |     Array Chunking     |  [✔](basic/array-chunking.js)  |
 |    09    |     Reverse Array      |  [✔](basic/reverse-array.js)   |
-|    10    |     Reverse Words      |                                |
-|    11    |     Capitalization     |                                |
-|    12    |     Caesar Cipher      |                                |
-|    13    |      Ransom Note       |                                |
+|    10    |     Reverse Words      |  [✔](basic/reverse-words.js)   |
+|    11    |     Capitalization     |  [✔](basic/capitalization.js)  |
+|    12    |     Caesar Cipher      |  [✔](basic/caesar-cipher.js)   |
+|    13    |      Ransom Note       |   [✔](basic/ransom-note.js)    |
 |    14    | Mean, Median, and Mode |                                |
 |    15    |        Two Sum         |                                |
 
