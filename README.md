@@ -10,24 +10,24 @@
 
 ### Problems
 
-| #Problem |         Themes         |              Code              |
-| :------: | :--------------------: | :----------------------------: |
-|  Intro   |         Prime          |      [✔](basic/prime.js)       |
-|    01    |    String Reversal     |  [✔](basic/string-reveral.js)  |
-|    02    |       Palindrome       |    [✔](basic/palindrome.js)    |
-|    03    |    Integer Reversal    | [✔](basic/integer-reversal.js) |
-|    04    |       Fizz Buzz        |     [✔](basic/fizzbuzz.js)     |
-|    05    |     Max Character      |  [✔](basic/max-character.js)   |
-|    06    |        Anagrams        |     [✔](basic/anagrams.js)     |
-|    07    |         Vowels         |      [✔](basic/vowels.js)      |
-|    08    |     Array Chunking     |  [✔](basic/array-chunking.js)  |
-|    09    |     Reverse Array      |  [✔](basic/reverse-array.js)   |
-|    10    |     Reverse Words      |  [✔](basic/reverse-words.js)   |
-|    11    |     Capitalization     |  [✔](basic/capitalization.js)  |
-|    12    |     Caesar Cipher      |  [✔](basic/caesar-cipher.js)   |
-|    13    |      Ransom Note       |   [✔](basic/ransom-note.js)    |
-|    14    | Mean, Median, and Mode |                                |
-|    15    |        Two Sum         |                                |
+| #Problem |               Themes                |              Code              |
+| :------: | :---------------------------------: | :----------------------------: |
+|  Intro   |                Prime                |      [✔](basic/prime.js)       |
+|    01    |           String Reversal           |  [✔](basic/string-reveral.js)  |
+|    02    |             Palindrome              |    [✔](basic/palindrome.js)    |
+|    03    |          Integer Reversal           | [✔](basic/integer-reversal.js) |
+|    04    |              Fizz Buzz              |     [✔](basic/fizzbuzz.js)     |
+|    05    |            Max Character            |  [✔](basic/max-character.js)   |
+|    06    |              Anagrams               |     [✔](basic/anagrams.js)     |
+|    07    |               Vowels                |      [✔](basic/vowels.js)      |
+|    08    |           Array Chunking            |  [✔](basic/array-chunking.js)  |
+|    09    |            Reverse Array            |  [✔](basic/reverse-array.js)   |
+|    10    |            Reverse Words            |  [✔](basic/reverse-words.js)   |
+|    11    |           Capitalization            |  [✔](basic/capitalization.js)  |
+|    12    |            Caesar Cipher            |  [✔](basic/caesar-cipher.js)   |
+|    13    | [Ransom Note](basic/ransom-note.md) |   [✔](basic/ransom-note.js)    |
+|    14    |       Mean, Median, and Mode        |                                |
+|    15    |               Two Sum               |                                |
 
 ## Data Structure
 
