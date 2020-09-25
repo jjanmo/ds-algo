@@ -16,7 +16,7 @@ function fizzBuzz(number) {
 			results.push(i);
 		}
 	}
-	console.log(results);
+
 	results.forEach((result) => console.log(result));
 }
 
