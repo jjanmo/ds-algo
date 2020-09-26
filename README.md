@@ -12,7 +12,7 @@
 
 | #Problem |               Themes                |              Code              |
 | :------: | :---------------------------------: | :----------------------------: |
-|  Intro   |                Prime                |      [✔](basic/prime.js)       |
+|  Intro   |       [Prime](basic/prime.md)       |      [✔](basic/prime.js)       |
 |    01    |           String Reversal           |  [✔](basic/string-reveral.js)  |
 |    02    |             Palindrome              |    [✔](basic/palindrome.js)    |
 |    03    |          Integer Reversal           | [✔](basic/integer-reversal.js) |
