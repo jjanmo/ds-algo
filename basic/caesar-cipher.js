@@ -3,12 +3,12 @@
 Given a phrase, substitute each character by shifting it up or down the alphabet by a given integer. If necessary, the shifting should wrap around back to the beginning or end of the alphabet.
 */
 
+//solution 1
 function caesarCipher(str, count) {
 	const UPPER_CASE = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	const LOWER_CASE = 'abcdefghijklmnopqrstuvwxyz';
 
 	const realMoveCount = count % 26;
-	console.log(realMoveCount);
 	let newStr = '';
 
 	for (let i = 0; i < str.length; i++) {
@@ -39,7 +39,6 @@ function caesarCipher(str, count) {
 				const curPos = UPPER_CASE.indexOf(str[i]);
 				if (curPos + realMoveCount < 0) {
 					const _tmp = 26 + (curPos + realMoveCount);
-					console.log(_tmp);
 					newStr += UPPER_CASE[_tmp];
 				} else {
 					newStr += UPPER_CASE[curPos + realMoveCount];
@@ -61,7 +60,35 @@ function caesarCipher(str, count) {
 	return newStr;
 }
 
+console.log('solution1');
 console.log(caesarCipher('I love JavaScript!', 100));
 //E hkra FwrwOynelp!
 console.log(caesarCipher('I love JavaScript!', -100));
+//M pszi NezeWgvmtx!
+
+//solution 2
+function _caesarCipher(str, count) {
+	const APHABET = 'abcdefghijklmnopqrstuvwxyz'.split('');
+	const MOVE_COUNT = count % 26;
+	const newStr = str.toLowerCase();
+	let result = '';
+
+	for (let i = 0; i < newStr.length; i++) {
+		if (APHABET.includes(newStr[i])) {
+			let index = APHABET.indexOf(newStr[i]) + MOVE_COUNT;
+			if (index > 25) index = index - 26;
+			if (index < 0) index = 26 + index;
+			result += APHABET.includes(str[i]) ? APHABET[index] : APHABET[index].toUpperCase();
+		} else {
+			result += newStr[i];
+		}
+	}
+
+	return result;
+}
+
+console.log('solution2');
+console.log(_caesarCipher('I love JavaScript!', 100));
+//E hkra FwrwOynelp!
+console.log(_caesarCipher('I love JavaScript!', -100));
 //M pszi NezeWgvmtx!
