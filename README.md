@@ -27,7 +27,7 @@
 |    12    |       [Caesar Cipher](basic/caesar-cipher.md)       |  [✔](basic/caesar-cipher.js)   |
 |    13    |         [Ransom Note](basic/ransom-note.md)         |   [✔](basic/ransom-note.js)    |
 |    14    | [Mean, Median, and Mode](basic/mean-median-mode.md) | [✔](basic/mean-median-mode.js) |
-|    15    |                       Two Sum                       |                                |
+|    15    |             [Two Sum](basic/two-sum.md)             |     [✔](basic/two-sum.js)      |
 |    16    |                     Max Profit                      |                                |
 |    17    |                Sieve of Eratosthenes                |                                |
 |    18    |                      Fibonacci                      |                                |
