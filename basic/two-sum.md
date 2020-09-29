@@ -1,8 +1,8 @@
 # Two Sum
 
-//Given an array of numbers, return all pairs that add up to a given sum. The numbers can be used more than once.
-//배열과 합의 결과가 주어진다. 주어진 결과를 만들 수 있는 한 쌍의 숫자를 배열 안에서 골라서 리턴하시오
-//결과가 1개이상인 경우 모두 리턴하시오
+> 문제) Given an array of numbers, return all pairs that add up to a given sum. The numbers can be used more than once.
+
+> 배열과 합의 결과가 주어진다. 주어진 결과를 만들 수 있는 한 쌍의 숫자를 배열 안에서 골라서 리턴하시오.결과가 1개이상인 경우 모두 리턴하시오
 
 # WIL(What I Learned this problem)
 
