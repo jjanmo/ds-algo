@@ -10,29 +10,29 @@
 
 ### Problems
 
-| #Problem |                       Themes                        |              Code              |
-| :------: | :-------------------------------------------------: | :----------------------------: |
-|  Intro   |               [Prime](basic/prime.md)               |      [✔](basic/prime.js)       |
-|    01    |                   String Reversal                   |  [✔](basic/string-reveral.js)  |
-|    02    |                     Palindrome                      |    [✔](basic/palindrome.js)    |
-|    03    |                  Integer Reversal                   | [✔](basic/integer-reversal.js) |
-|    04    |                      Fizz Buzz                      |     [✔](basic/fizzbuzz.js)     |
-|    05    |                    Max Character                    |  [✔](basic/max-character.js)   |
-|    06    |                      Anagrams                       |     [✔](basic/anagrams.js)     |
-|    07    |                       Vowels                        |      [✔](basic/vowels.js)      |
-|    08    |                   Array Chunking                    |  [✔](basic/array-chunking.js)  |
-|    09    |                    Reverse Array                    |  [✔](basic/reverse-array.js)   |
-|    10    |                    Reverse Words                    |  [✔](basic/reverse-words.js)   |
-|    11    |                   Capitalization                    |  [✔](basic/capitalization.js)  |
-|    12    |       [Caesar Cipher](basic/caesar-cipher.md)       |  [✔](basic/caesar-cipher.js)   |
-|    13    |         [Ransom Note](basic/ransom-note.md)         |   [✔](basic/ransom-note.js)    |
-|    14    | [Mean, Median, and Mode](basic/mean-median-mode.md) | [✔](basic/mean-median-mode.js) |
-|    15    |             [Two Sum](basic/two-sum.md)             |     [✔](basic/two-sum.js)      |
-|    16    |          [Max Profit](basic/max-profit.md)          |    [✔](basic/max-profit.js)    |
-|    17    |                Sieve of Eratosthenes                |                                |
-|    18    |                      Fibonacci                      |                                |
-|    19    |                 Memoized Fibonacci                  |                                |
-|    20    |                      Staircase                      |                                |
+| #Problem |                                            Themes                                            |                Code                 |
+| :------: | :------------------------------------------------------------------------------------------: | :---------------------------------: |
+|  Intro   |                                   [Prime](basic/prime.md)                                    |         [✔](basic/prime.js)         |
+|    01    |                                       String Reversal                                        |    [✔](basic/string-reveral.js)     |
+|    02    |                                          Palindrome                                          |      [✔](basic/palindrome.js)       |
+|    03    |                                       Integer Reversal                                       |   [✔](basic/integer-reversal.js)    |
+|    04    |                                          Fizz Buzz                                           |       [✔](basic/fizzbuzz.js)        |
+|    05    |                                        Max Character                                         |     [✔](basic/max-character.js)     |
+|    06    |                                           Anagrams                                           |       [✔](basic/anagrams.js)        |
+|    07    |                                            Vowels                                            |        [✔](basic/vowels.js)         |
+|    08    |                                        Array Chunking                                        |    [✔](basic/array-chunking.js)     |
+|    09    |                                        Reverse Array                                         |     [✔](basic/reverse-array.js)     |
+|    10    |                                        Reverse Words                                         |     [✔](basic/reverse-words.js)     |
+|    11    |                                        Capitalization                                        |    [✔](basic/capitalization.js)     |
+|    12    |                           [Caesar Cipher](basic/caesar-cipher.md)                            |     [✔](basic/caesar-cipher.js)     |
+|    13    |                             [Ransom Note](basic/ransom-note.md)                              |      [✔](basic/ransom-note.js)      |
+|    14    |                     [Mean, Median, and Mode](basic/mean-median-mode.md)                      |   [✔](basic/mean-median-mode.js)    |
+|    15    |                                 [Two Sum](basic/two-sum.md)                                  |        [✔](basic/two-sum.js)        |
+|    16    |                              [Max Profit](basic/max-profit.md)                               |      [✔](basic/max-profit.js)       |
+|    17    | [Sieve of Eratosthenes](basic/prime.md/#방법3-에라토스테네스의-체#방법3-에라토스테네스의-체) | [✔](basic/sieve-of-eratosthenes.js) |
+|    18    |                                          Fibonacci                                           |                                     |
+|    19    |                                      Memoized Fibonacci                                      |                                     |
+|    20    |                                          Staircase                                           |                                     |
 
 ## Data Structure
 
