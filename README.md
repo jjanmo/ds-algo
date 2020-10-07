@@ -31,7 +31,7 @@
 |    16    |                              [Max Profit](basic/max-profit.md)                               |      [✔](basic/max-profit.js)       |
 |    17    | [Sieve of Eratosthenes](basic/prime.md/#방법3-에라토스테네스의-체#방법3-에라토스테네스의-체) | [✔](basic/sieve-of-eratosthenes.js) |
 |    18    |                                          Fibonacci                                           |       [✔](basic/fibonacci.js)       |
-|    19    |                                      Memoized Fibonacci                                      |                                     |
+|    19    |                      [Memoized Fibonacci](basic/memoized-fibonacci.md)                       |  [✔](basic/memoized-fibonacci.js)   |  |
 |    20    |                                          Staircase                                           |                                     |
 
 ## Data Structure
