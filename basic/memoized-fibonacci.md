@@ -27,7 +27,7 @@ fibonacci2 time: 0.154ms    : 반복문 이용
 
     -   구조적으로 연산과정에서 중복되는 부분이 많이 발생한다. 숫자가 커지는 경우(연산이 많아지는 경우) `stack overflow` 같은 에러가 발생하기 쉽다.
 
-        ![fibonacci](basic/image/fibinacci.png)
+        ![fibonacci](../basic/image/fibinacci.png)
 
         > 위 이미지는 n이 7일때 피보나치수를 구하는 과정을 표현한 것이다. 같은 과정이 얼마만큼 반복되는지를 살펴보자
 
