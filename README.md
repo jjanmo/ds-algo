@@ -32,7 +32,7 @@
 |    17    | [Sieve of Eratosthenes](basic/prime.md/#방법3-에라토스테네스의-체) | [✔](basic/sieve-of-eratosthenes.js) |
 |    18    |                             Fibonacci                              |       [✔](basic/fibonacci.js)       |
 |    19    |         [Memoized Fibonacci](basic/memoized-fibonacci.md)          |  [✔](basic/memoized-fibonacci.js)   |
-|    20    |                             Staircase                              |                                     |
+|    20    |                             Staircase                              |       [✔](basic/staircase.js)       |
 
 ## Data Structure
 
