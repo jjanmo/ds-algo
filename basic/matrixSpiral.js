@@ -2,9 +2,9 @@
     function spiral(number){
         const result = [];
         let startCol = 0;
-        let endCol = number;
+        let endCol = number - 1;
         let startRow = 0;
-        let endRow = number;
+        let endRow = number - 1;
         let value = 1;
 
         for(let i = 0; i < number; i++){
@@ -12,19 +12,17 @@
         }
 
         while(startCol <= endCol && startRow <= endRow){
-            for(let i = startCol; i < endCol; i++){
+            for(let i = startCol; i <= endCol; i++){
                 result[startRow][i] = value;
                 value++;
             }
-            endCol--;
             startRow++;
 
-            for(let i = startRow; i < endRow; i++){
+            for(let i = startRow; i <= endRow; i++){
                 result[i][endCol] = value;
                 value++;
             }
             endCol--;
-            endRow--;
 
             for(let i = endCol; i >= startCol; i--){
                 result[endRow][i] = value;
@@ -37,16 +35,10 @@
                 value++;
             }
             startCol++;
-
-
-
-
         }
 
-            return result;
+        return result;
     }
-
-
 
     console.log(spiral(3));
     /*
@@ -56,6 +48,7 @@
         [7, 6, 5]
     ]
     */
+
     console.log(spiral(5));
     /*
     [
@@ -65,6 +58,5 @@
         [14, 23, 22, 21, 8],
         [13, 12, 11, 10, 9]
     ]
-
     */
 })();
