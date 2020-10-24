@@ -1,8 +1,10 @@
 # Data Structure & Algorithm
 
-> [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)를 참고하고 개념을 정리한다.
-
 > 실제 문제를 풀면서 필요했던 내용과 직접 작성한 코드를 바탕으로 정리한다.
+
+> 참고
+
+-   [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 
 ## ~~Basic~~ General
 
@@ -44,3 +46,13 @@
 ## Data Structure
 
 ## Algorithm
+
+### Sorting Algorithms
+
+#### Bubble Sort
+
+### Search Algorithm
+
+#### Linear Search
+
+#### Binary Search
