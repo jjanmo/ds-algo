@@ -42,6 +42,7 @@
 |    19    |         [Memoized Fibonacci](basic/memoized-fibonacci.md)          |  [✔](basic/memoized-fibonacci.js)   |
 |    20    |                             Staircase                              |       [✔](basic/staircase.js)       |
 |    21    |                              Pyramid                               |        [✔](basic/pyramid.js)        |
+|    22    |                           Matrix Spiral                            |     [✔](basic/matrixSpiral.js)      |
 
 ## Data Structure
 
