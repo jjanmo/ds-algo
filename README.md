@@ -44,16 +44,30 @@
 |    21    |                              Pyramid                               |        [✔](basic/pyramid.js)        |
 |    22    |                           Matrix Spiral                            |     [✔](basic/matrixSpiral.js)      |
 
+<br />
+
 ## Data Structure
 
+> Data Structure is <u>the `building blocks` of algorithms</u>
+
+> 다양한 자료 구조가 존재한다. 각각의 자료 구조의 특징을 알아보고 그것을 `언제(When)`, `왜(Why)`사용하는지에 대해서 알아보자.
+
+> 자료 구조는 크게 3가지로 구분한다.
+
+-   <u>array like structure</u>인 **Stack**과 **Queues**이다. 위 둘은 자료 구조 안에 아이템을 넣고 제거하는 방식의 차이점을 있다.
+-   <u>노드 기반</u>의 자료 구조인 **Linked Lists**, **Trees**, **Graphs**이다.
+-   <u>해쉬 함수</u>에 의해 변경되어 저장되는 **Hash Tables**이다.
+
+> 참고
+
+-   [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+
+<br />
+
+|  #  |    DataStructure     |       Code       |
+| :-: | :------------------: | :--------------: |
+| 01  | [Stack](ds/stack.md) | [✔](ds/stack.js) |
+
+<br />
+
 ## Algorithm
-
-### Sorting Algorithms
-
-#### Bubble Sort
-
-### Search Algorithm
-
-#### Linear Search
-
-#### Binary Search
