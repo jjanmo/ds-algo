@@ -1,12 +1,12 @@
 # Data Structure & Algorithm
 
-> 실제 문제를 풀면서 필요했던 내용과 직접 작성한 코드를 바탕으로 정리한다.
+> 문제를 풀면서 필요했던 내용과 직접 작성한 코드를 바탕으로 정리한다.
 
 > 참고
 
 -   [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 
--   [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+-   [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
 
     > 위 블로그에 대해서 간단히 설명하면,
 
@@ -67,6 +67,7 @@
 |  #  |    DataStructure     |       Code       |
 | :-: | :------------------: | :--------------: |
 | 01  | [Stack](ds/stack.md) | [✔](ds/stack.js) |
+| 02  | [Queue](ds/queue.md) | [✔](ds/queue.js) |
 
 <br />
 
