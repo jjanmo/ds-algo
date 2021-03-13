@@ -4,17 +4,17 @@
 
 > 참고
 
--   [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+- [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
 
--   [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
+- [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
 
-    > 위 블로그에 대해서 간단히 설명하면,
+  > 위 블로그에 대해서 간단히 설명하면,
 
-    -   ~~기본적인(위밍업🤐)~~ 40문제에 대한 블로그인 줄 알고 시작했다. 그런데, 나중엔 문제 인덱스가 사라진다😎. 단지 40문제가 아니라는 것을 강조하는 것일 뿐😁.
-    -   개발자라면 알아야하는 기본적인 문제와 자료구조, 알고리즘 개념들을 모아놓은 블로그라고 말하는 것이 맞는듯...`무조건 알아야하는 것`이랄까 or `한 번쯤은 반드시 구현해봤어야하는 것들에 대한 모음`이랄까. 쉬운 것도 있고 들어는봤지만 `코드로 생각해보진않은 것`이랄까.
-    -   자료구조나 알고리즘을 배워본적이 없는 사람에겐 `출발의 방향성`을 줄 수 있는 블로그라고 생각한다.
+  - ~~기본적인(위밍업🤐)~~ 40문제에 대한 블로그인 줄 알고 시작했다. 그런데, 나중엔 문제 인덱스가 사라진다😎. 단지 40문제가 아니라는 것을 강조하는 것일 뿐😁.
+  - 개발자라면 알아야하는 기본적인 문제와 자료구조, 알고리즘 개념들을 모아놓은 블로그라고 말하는 것이 맞는듯...`무조건 알아야하는 것`이랄까 or `한 번쯤은 반드시 구현해봤어야하는 것들에 대한 모음`이랄까. 쉬운 것도 있고 들어는봤지만 `코드로 생각해보진않은 것`이랄까.
+  - 자료구조나 알고리즘을 배워본적이 없는 사람에겐 `출발의 방향성`을 줄 수 있는 블로그라고 생각한다.
 
--   [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+- [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 
 ## ~~Basic~~ General
 
@@ -58,9 +58,9 @@
 
 > 자료 구조는 크게 3가지로 구분한다.
 
--   <u>array like structure</u>인 **Stack**과 **Queues**. 위 둘은 자료 구조 안에 자료를 넣고 제거하는 방식의 차이점이 있다.
--   <u>노드 기반</u>의 자료 구조인 **Linked Lists**, **Trees**, **Graphs**
--   <u>해쉬 함수</u>에 의해 변경되어 저장되는 **Hash Tables**
+- <u>array like structure</u>인 **Stack**과 **Queues**. 위 둘은 자료 구조 안에 자료를 넣고 제거하는 방식의 차이점이 있다.
+- <u>노드 기반</u>의 자료 구조인 **Linked Lists**, **Trees**, **Graphs**
+- <u>해쉬 함수</u>에 의해 변경되어 저장되는 **Hash Tables**
 
 <br />
 
@@ -72,3 +72,31 @@
 <br />
 
 ## Algorithm
+
+> 자바스크립트로 알고리즘 문제를 풀면서 관련 **개념**을 정리한다.
+
+> 자바스크립트를 통해서 알고리즘을 공부하는 것에 대한 자료가 생각보다 많이 부족하고 스스로 공부하기 벅찬 부분이 있어서 [강의](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)의 도움을 빌렸다. 그렇기 때문에 내용(문제)에 대한 저작권이 있을 수 있기에 내가 푼 소스 코드와 재가공한 내용에 대해서만 업로드를 할 예정이다. 조금 더 정확하고 자세한 설명을 원한다면 위 강의를 참고하시길...😅 (혹은 제목을 검색하면 비슷한 문제를 찾으실 수 있을 것 같다.)
+
+### Section01
+
+> 기본문제
+
+| Index |      Problem      |              My Solution               |
+| :---: | :---------------: | :------------------------------------: |
+|  01   | 세 수 중에 최솟값 | [Code](algorithms/section01/s01_01.js) |
+|  02   |  삼각형 판별하기  |                  Code                  |
+|  03   |     연필개수      |                  Code                  |
+|  04   | 1부터 N까지의 합  |                  Code                  |
+|  05   |   최솟값 구하기   |                  Code                  |
+|  06   |       홀수        |                  Code                  |
+|  07   |      10부제       |                  Code                  |
+|  08   |    일곱난쟁이     |                  Code                  |
+|  09   |     A를 #으로     |                  Code                  |
+|  10   |     문자 찾기     |                  Code                  |
+|  11   |    대문자 찾기    |                  Code                  |
+|  12   |   대문자로 통일   |                  Code                  |
+|  13   |   대소문자 변환   |                  Code                  |
+|  14   |  가장 긴 문자열   |                  Code                  |
+|  15   | 가운데 문자 출력  |                  Code                  |
+|  16   |   중복문제 제거   |                  Code                  |
+|  17   |   중복단어 제거   |                  Code                  |
