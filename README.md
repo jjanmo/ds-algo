@@ -81,22 +81,22 @@
 
 > 기본문제
 
-| Index |      Problem      |              My Solution               |
-| :---: | :---------------: | :------------------------------------: |
-|  01   | 세 수 중에 최솟값 | [Code](algorithms/section01/s01_01.js) |
-|  02   |  삼각형 판별하기  | [Code](algorithms/section01/s01_02.js) |
-|  03   |     연필개수      | [Code](algorithms/section01/s01_03.js) |
-|  04   | 1부터 N까지의 합  | [Code](algorithms/section01/s01_04.js) |
-|  05   |   최솟값 구하기   | [Code](algorithms/section01/s01_05.js) |
-|  06   |       홀수        | [Code](algorithms/section01/s01_06.js) |
-|  07   |      10부제       | [Code](algorithms/section01/s01_07.js) |
-|  08   |    일곱난쟁이     |                  Code                  |
-|  09   |     A를 #으로     |                  Code                  |
-|  10   |     문자 찾기     |                  Code                  |
-|  11   |    대문자 찾기    |                  Code                  |
-|  12   |   대문자로 통일   |                  Code                  |
-|  13   |   대소문자 변환   |                  Code                  |
-|  14   |  가장 긴 문자열   |                  Code                  |
-|  15   | 가운데 문자 출력  |                  Code                  |
-|  16   |   중복문제 제거   |                  Code                  |
-|  17   |   중복단어 제거   |                  Code                  |
+| Index |      Problem      |              My Solution              |
+| :---: | :---------------: | :-----------------------------------: |
+|  01   | 세 수 중에 최솟값 | [Code](algorithm/section01/s01_01.js) |
+|  02   |  삼각형 판별하기  | [Code](algorithm/section01/s01_02.js) |
+|  03   |     연필개수      | [Code](algorithm/section01/s01_03.js) |
+|  04   | 1부터 N까지의 합  | [Code](algorithm/section01/s01_04.js) |
+|  05   |   최솟값 구하기   | [Code](algorithm/section01/s01_05.js) |
+|  06   |       홀수        | [Code](algorithm/section01/s01_06.js) |
+|  07   |      10부제       | [Code](algorithm/section01/s01_07.js) |
+|  08   |    일곱난쟁이     |                 Code                  |
+|  09   |     A를 #으로     |                 Code                  |
+|  10   |     문자 찾기     |                 Code                  |
+|  11   |    대문자 찾기    |                 Code                  |
+|  12   |   대문자로 통일   |                 Code                  |
+|  13   |   대소문자 변환   |                 Code                  |
+|  14   |  가장 긴 문자열   |                 Code                  |
+|  15   | 가운데 문자 출력  |                 Code                  |
+|  16   |   중복문제 제거   |                 Code                  |
+|  17   |   중복단어 제거   |                 Code                  |
