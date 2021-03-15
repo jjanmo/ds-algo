@@ -85,7 +85,7 @@
 | :---: | :---------------: | :------------------------------------: |
 |  01   | 세 수 중에 최솟값 | [Code](algorithms/section01/s01_01.js) |
 |  02   |  삼각형 판별하기  | [Code](algorithms/section01/s01_02.js) |
-|  03   |     연필개수      |                  Code                  |
+|  03   |     연필개수      | [Code](algorithms/section01/s01_03.js) |
 |  04   | 1부터 N까지의 합  |                  Code                  |
 |  05   |   최솟값 구하기   |                  Code                  |
 |  06   |       홀수        |                  Code                  |
