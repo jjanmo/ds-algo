@@ -88,7 +88,7 @@
 |  03   |     연필개수      | [Code](algorithms/section01/s01_03.js) |
 |  04   | 1부터 N까지의 합  | [Code](algorithms/section01/s01_04.js) |
 |  05   |   최솟값 구하기   | [Code](algorithms/section01/s01_05.js) |
-|  06   |       홀수        |                  Code                  |
+|  06   |       홀수        | [Code](algorithms/section01/s01_06.js) |
 |  07   |      10부제       |                  Code                  |
 |  08   |    일곱난쟁이     |                  Code                  |
 |  09   |     A를 #으로     |                  Code                  |
