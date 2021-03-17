@@ -98,5 +98,5 @@
 |  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  |
 |  14   |  가장 긴 문자열   | [Code](algorithm/section01/s01_14.js)  |
 |  15   | 가운데 문자 출력  | [Code](algorithm/section01/s01_15.js)  |
-|  16   |   중복문제 제거   |                  Code                  |
+|  16   |   중복문제 제거   | [Code](algorithm/section01/s01_16.js)  |
 |  17   |   중복단어 제거   |                  Code                  |
