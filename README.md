@@ -95,7 +95,7 @@
 |  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js)  |
 |  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js)) |
 |  12   |   대문자로 통일   | [Code](algorithm/section01/s01_12.js)  |
-|  13   |   대소문자 변환   |                  Code                  |
+|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  |
 |  14   |  가장 긴 문자열   |                  Code                  |
 |  15   | 가운데 문자 출력  |                  Code                  |
 |  16   |   중복문제 제거   |                  Code                  |
