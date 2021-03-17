@@ -93,7 +93,7 @@
 |  08   |    일곱난쟁이     |                 Code                  |
 |  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js) |
 |  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js) |
-|  11   |    대문자 찾기    |                 Code                  |
+|  11   |    대문자 찾기    | [Code](lgorithm/section01/s01_11.js)) |
 |  12   |   대문자로 통일   |                 Code                  |
 |  13   |   대소문자 변환   |                 Code                  |
 |  14   |  가장 긴 문자열   |                 Code                  |
