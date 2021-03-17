@@ -91,7 +91,7 @@
 |  06   |       홀수        | [Code](algorithm/section01/s01_06.js) |
 |  07   |      10부제       | [Code](algorithm/section01/s01_07.js) |
 |  08   |    일곱난쟁이     |                 Code                  |
-|  09   |     A를 #으로     |                 Code                  |
+|  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js) |
 |  10   |     문자 찾기     |                 Code                  |
 |  11   |    대문자 찾기    |                 Code                  |
 |  12   |   대문자로 통일   |                 Code                  |
