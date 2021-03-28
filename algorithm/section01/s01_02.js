@@ -2,9 +2,9 @@ function solution(a, b, c) {
   const longest = Math.max(a, b, c);
   let result;
 
-  if (a === longest) result = a <= b + c;
-  else if (b === longest) result = b <= a + c;
-  else result = c <= a + b;
+  if (a === longest) result = a < b + c;
+  else if (b === longest) result = b < a + c;
+  else result = c < a + b;
 
   return result ? 'YES' : 'NO';
 }
