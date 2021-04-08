@@ -89,25 +89,25 @@
 
 > 기본문제
 
-| Index |      Problem      |              My Solution               |
-| :---: | :---------------: | :------------------------------------: |
-|  01   | 세 수 중에 최솟값 | [Code](algorithm/section01/s01_01.js)  |
-|  02   |  삼각형 판별하기  | [Code](algorithm/section01/s01_02.js)  |
-|  03   |     연필개수      | [Code](algorithm/section01/s01_03.js)  |
-|  04   | 1부터 N까지의 합  | [Code](algorithm/section01/s01_04.js)  |
-|  05   |   최솟값 구하기   | [Code](algorithm/section01/s01_05.js)  |
-|  06   |       홀수        | [Code](algorithm/section01/s01_06.js)  |
-|  07   |      10부제       | [Code](algorithm/section01/s01_07.js)  |
-|  08   |    일곱난쟁이     | [Code](algorithm/section01/s01_08.js)  |
-|  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js)  |
-|  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js)  |
-|  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js)) |
-|  12   |   대문자로 통일   | [Code](algorithm/section01/s01_12.js)  |
-|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  |
-|  14   |  가장 긴 문자열   | [Code](algorithm/section01/s01_14.js)  |
-|  15   | 가운데 문자 출력  | [Code](algorithm/section01/s01_15.js)  |
-|  16   |   중복문제 제거   | [Code](algorithm/section01/s01_16.js)  |
-|  17   |   중복단어 제거   | [Code](algorithm/section01/s01_17.js)  |
+| Index |      Problem      |              My Solution               |           What I Learned            |
+| :---: | :---------------: | :------------------------------------: | :---------------------------------: |
+|  01   | 세 수 중에 최솟값 | [Code](algorithm/section01/s01_01.js)  |                                     |
+|  02   |  삼각형 판별하기  | [Code](algorithm/section01/s01_02.js)  |                                     |
+|  03   |     연필개수      | [Code](algorithm/section01/s01_03.js)  |                                     |
+|  04   | 1부터 N까지의 합  | [Code](algorithm/section01/s01_04.js)  |                                     |
+|  05   |   최솟값 구하기   | [Code](algorithm/section01/s01_05.js)  |                                     |
+|  06   |       홀수        | [Code](algorithm/section01/s01_06.js)  |                                     |
+|  07   |      10부제       | [Code](algorithm/section01/s01_07.js)  |                                     |
+|  08   |    일곱난쟁이     | [Code](algorithm/section01/s01_08.js)  |                                     |
+|  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js)  |                                     |
+|  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js)  |                                     |
+|  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js)) |                                     |
+|  12   |   대문자로 통일   | [Code](algorithm/section01/s01_12.js)  |                                     |
+|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  | [✔️](algorithm/section01/s01_10.md) |
+|  14   |  가장 긴 문자열   | [Code](algorithm/section01/s01_14.js)  |                                     |
+|  15   | 가운데 문자 출력  | [Code](algorithm/section01/s01_15.js)  |                                     |
+|  16   |   중복문제 제거   | [Code](algorithm/section01/s01_16.js)  |                                     |
+|  17   |   중복단어 제거   | [Code](algorithm/section01/s01_17.js)  |                                     |
 
 ### Section02
 
