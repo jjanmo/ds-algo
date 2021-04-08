@@ -101,9 +101,9 @@
 |  08   |    일곱난쟁이     | [Code](algorithm/section01/s01_08.js)  |                                     |
 |  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js)  |                                     |
 |  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js)  |                                     |
-|  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js)) |                                     |
+|  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js)) | [✔️](algorithm/section01/s01_11.md) |
 |  12   |   대문자로 통일   | [Code](algorithm/section01/s01_12.js)  |                                     |
-|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  | [✔️](algorithm/section01/s01_10.md) |
+|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js)  |                                     |
 |  14   |  가장 긴 문자열   | [Code](algorithm/section01/s01_14.js)  |                                     |
 |  15   | 가운데 문자 출력  | [Code](algorithm/section01/s01_15.js)  |                                     |
 |  16   |   중복문제 제거   | [Code](algorithm/section01/s01_16.js)  |                                     |
