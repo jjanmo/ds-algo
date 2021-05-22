@@ -1,4 +1,4 @@
-function solution(n, array) {
+function solution(array) {
   let longestString = array[0];
   let longestLength = array[0].length;
 
@@ -6,7 +6,7 @@ function solution(n, array) {
     if (string.length > longestLength) longestString = string;
   });
 
-  console.log(longestString);
+  return longestString;
 }
 
-solution(5, ['teacher', 'time', 'student', 'beautiful', 'good']);
+console.log(solution(['teacher', 'time', 'student', 'beautiful', 'good']));
