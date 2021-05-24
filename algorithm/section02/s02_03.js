@@ -1,6 +1,6 @@
-function solution(game, A, B) {
+function solution(A, B) {
   const results = [];
-  for (let i = 0; i < game; i++) {
+  for (let i = 0; i < A.length; i++) {
     if (A[i] === 1 && B[i] === 3) {
       results.push('A');
     } else if (A[i] === 3 && B[i] === 1) {
@@ -14,7 +14,7 @@ function solution(game, A, B) {
     }
   }
 
-  console.log(results.join(' '));
+  return results.join(' ');
 }
 
-solution(5, [2, 3, 3, 1, 3], [1, 1, 2, 2, 3]);
+console.log(solution([2, 3, 3, 1, 3], [1, 1, 2, 2, 3]));
