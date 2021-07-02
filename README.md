@@ -121,4 +121,16 @@
 |  04   |   점수 계산    | [Code](algorithm/section02/s02_04.js) |
 |  05   |  등수 구하기   | [Code](algorithm/section02/s02_05.js) |
 |  06   | 격자판 최대합  | [Code](algorithm/section02/s02_06.js) |
-|  07   |     봉우리     | [Code](algorithm/section02/s02_07.js) |
+|  07   |   ✅ 봉우리    | [Code](algorithm/section02/s02_07.js) |
+
+### Section03
+
+> 문자열 탐색
+
+| Index |      Problem       |              My Solution              |
+| :---: | :----------------: | :-----------------------------------: |
+|  01   |    회문 문자열     | [Code](algorithm/section03/s03_01.js) |
+|  02   |  유효한 팰린드롬   | [Code](algorithm/section03/s03_02.js) |
+|  03   |    숫자만 추출     | [Code](algorithm/section03/s03_03.js) |
+|  04   | 가장 짧은 문자거리 | [Code](algorithm/section03/s03_04.js) |
+|  05   |    문자열 압축     | [Code](algorithm/section03/s03_05.js) |

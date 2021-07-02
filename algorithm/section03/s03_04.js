@@ -17,4 +17,4 @@ function solution(str, char) {
   return result;
 }
 
-console.log(solution('teachermode', 'e'));
+console.log(solution('teachermode', 'e')); // 1 0 1 2 1 0 1 2 2 1 0

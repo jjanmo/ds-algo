@@ -4,5 +4,5 @@ function solution(string) {
   return parseInt(newString, 10);
 }
 
-console.log(solution('g0en2T0s8eSoft'));
-console.log(solution('tge0a1h205er'));
+console.log(solution('g0en2T0s8eSoft')); // 208
+console.log(solution('tge0a1h205er')); // 125

@@ -12,5 +12,5 @@ function solution(string) {
   return result;
 }
 
-console.log(solution('KKHSSSSSSSE'));
-console.log(solution('AAAABBCDCDAABCCC'));
+console.log(solution('KKHSSSSSSSE')); // K2HS7E
+console.log(solution('AAAABBCDCDAABCCC')); // A4B2CDCDA2BC3

@@ -8,4 +8,4 @@ function solution(string) {
   return 'Yes';
 }
 
-console.log(solution('found7, time: study; Yduts; emit, 7Dnuof'));
+console.log(solution('found7, time: study; Yduts; emit, 7Dnuof')); // YES
