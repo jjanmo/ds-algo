@@ -8,13 +8,9 @@ function solution(array) {
       sum += _value % 10;
       _value = Math.floor(_value / 10);
     }
-    if (max < sum) {
+    if (max <= sum) {
       max = sum;
       result = array[i];
-    } else if (max === sum) {
-      if (result < array[i]) {
-        result = array[i];
-      }
     }
   }
 
