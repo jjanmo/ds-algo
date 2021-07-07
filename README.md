@@ -134,3 +134,11 @@
 |  03   |    숫자만 추출     | [Code](algorithm/section03/s03_03.js) |
 |  04   | 가장 짧은 문자거리 | [Code](algorithm/section03/s03_04.js) |
 |  05   |    문자열 압축     | [Code](algorithm/section03/s03_05.js) |
+
+### Section04
+
+> 문자열 탐색
+
+| Index |   Problem   |              My Solution              |
+| :---: | :---------: | :-----------------------------------: |
+|  01   | 자릿수의 합 | [Code](algorithm/section04/s04_01.js) |
