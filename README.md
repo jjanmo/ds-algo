@@ -142,3 +142,4 @@
 | Index |   Problem   |              My Solution              |
 | :---: | :---------: | :-----------------------------------: |
 |  01   | 자릿수의 합 | [Code](algorithm/section04/s04_01.js) |
+|  02   | 뒤집은 소수 | [Code](algorithm/section04/s04_02.js) |
