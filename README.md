@@ -113,15 +113,15 @@
 
 > 1,2차원 탐색
 
-| Index |    Problem     |              My Solution              |
-| :---: | :------------: | :-----------------------------------: |
-|  01   | 큰 수 출력하기 | [Code](algorithm/section02/s02_01.js) |
-|  02   |  보이는 학생   | [Code](algorithm/section02/s02_02.js) |
-|  03   |   가위바위보   | [Code](algorithm/section02/s02_03.js) |
-|  04   |   점수 계산    | [Code](algorithm/section02/s02_04.js) |
-|  05   |  등수 구하기   | [Code](algorithm/section02/s02_05.js) |
-|  06   | 격자판 최대합  | [Code](algorithm/section02/s02_06.js) |
-|  07   |   ✅ 봉우리    | [Code](algorithm/section02/s02_07.js) |
+| Index |    Problem     |              My Solution              |           What I Learned            |
+| :---: | :------------: | :-----------------------------------: | :---------------------------------: |
+|  01   | 큰 수 출력하기 | [Code](algorithm/section02/s02_01.js) |                                     |
+|  02   |  보이는 학생   | [Code](algorithm/section02/s02_02.js) |                                     |
+|  03   |   가위바위보   | [Code](algorithm/section02/s02_03.js) |                                     |
+|  04   |   점수 계산    | [Code](algorithm/section02/s02_04.js) |                                     |
+|  05   |  등수 구하기   | [Code](algorithm/section02/s02_05.js) |                                     |
+|  06   | 격자판 최대합  | [Code](algorithm/section02/s02_06.js) |                                     |
+|  07   |   ⭐️ 봉우리   | [Code](algorithm/section02/s02_07.js) | [✔️](algorithm/section02/s02_07.md) |
 
 ### Section03
 
