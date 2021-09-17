@@ -1,5 +1,5 @@
-function solution(string) {
-  for (let i = 0; i < string.length; i++) {
+function solution1(string) {
+  for (let i = 0; i < Math.floor(string.length / 2); i++) {
     if (string[i].toLowerCase() !== string[string.length - i - 1].toLowerCase()) {
       return 'No';
     }
@@ -7,11 +7,29 @@ function solution(string) {
   return 'Yes';
 }
 
-console.log(solution('gooG')); // Yes
-console.log(solution('abba')); // Yes
-console.log(solution('summUus')); // No
-console.log(solution('xabBa')); // No
-console.log(solution('xabbay')); // No
-console.log(solution('comcom')); // No
-console.log(solution('comwWmoC')); // Yes
-console.log(solution('comwwtmoc')); // No
+function solution2(string) {
+  const lowerString = string.toLowerCase();
+  const reversedString = lowerString.split('').reverse().join('');
+
+  return lowerString === reversedString ? 'YES' : 'NO';
+}
+
+console.log(solution1('gooG')); // Yes
+console.log(solution1('abba')); // Yes
+console.log(solution1('summUus')); // No
+console.log(solution1('xabBa')); // No
+console.log(solution1('xabbay')); // No
+console.log(solution1('comcom')); // No
+console.log(solution1('comwWmoC')); // Yes
+console.log(solution1('comwwtmoc')); // No
+
+console.log('-----------------');
+
+console.log(solution2('gooG')); // Yes
+console.log(solution2('abba')); // Yes
+console.log(solution2('summUus')); // No
+console.log(solution2('xabBa')); // No
+console.log(solution2('xabbay')); // No
+console.log(solution2('comcom')); // No
+console.log(solution2('comwWmoC')); // Yes
+console.log(solution2('comwwtmoc')); // No
