@@ -139,7 +139,10 @@
 
 > 문자열 탐색
 
-| Index |   Problem   |              My Solution              |
-| :---: | :---------: | :-----------------------------------: |
-|  01   | 자릿수의 합 | [Code](algorithm/section04/s04_01.js) |
-|  02   | 뒤집은 소수 | [Code](algorithm/section04/s04_02.js) |
+| Index |     Problem     |              My Solution              |
+| :---: | :-------------: | :-----------------------------------: |
+|  01   |   자릿수의 합   | [Code](algorithm/section04/s04_01.js) |
+|  02   |   뒤집은 소수   | [Code](algorithm/section04/s04_02.js) |
+|  03   |  ⭐️⭐️ 멘토링  | [Code](algorithm/section04/s04_03.js) |
+|  04   |  ⭐️ 졸업 선물  | [Code](algorithm/section04/s04_04.js) |
+|  05   | ⭐️ K번째 큰 수 | [Code](algorithm/section04/s04_05.js) |
