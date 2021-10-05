@@ -1,31 +1,65 @@
 function solution(total, list) {
-  const newList = list;
-  newList.sort((a, b) => a[0] - b[0]);
+  list.sort((a, b) => a[0] + a[1] - (b[0] + b[1]));
 
   let sum = 0;
   let count = 0;
-  for (let i = 0; i < newList.length; i++) {
-    const pSum = newList[i][0] + newList[i][1];
-    sum += pSum;
-    if (sum === total) {
-      return count++;
-    } else if (sum < total) {
-      count++;
-    } else {
+  let index = 0;
+  for (let i = 0; i < list.length; i++) {
+    sum += list[i][0] + list[i][1];
+    count++;
+    if (sum > total) {
+      sum -= list[i][0] + list[i][1];
+      count--;
+      index = i;
+      break;
     }
   }
 
-  console.log(sum);
+  // 할인
+  for (let i = index; i < list.length; i++) {
+    const value = list[i][0] / 2;
+    sum += value + list[i][1];
+    if (sum <= total) {
+      count++;
+    } else {
+      sum -= value + list[i][1];
+    }
+  }
+
+  return count;
 }
 
 console.log(
   solution(28, [
-    [6, 6], // 12
-    [2, 2], // 4
-    [4, 3], // 7
-    [4, 5], // 9
-    [10, 3], // 13
+    [6, 6],
+    [2, 2],
+    [4, 3],
+    [4, 5],
+    [10, 3],
   ])
-);
+); // 4
 
-// [ [상품가격, 배송비], [], [] ]
+console.log(
+  solution(596, [
+    [6, 331],
+    [4, 251],
+    [8, 675],
+    [5, 214],
+    [10, 735],
+    [5, 996],
+    [9, 609],
+    [9, 371],
+    [8, 377],
+    [5, 707],
+    [7, 907],
+    [6, 433],
+    [9, 737],
+    [8, 796],
+    [4, 265],
+    [3, 484],
+    [8, 488],
+    [8, 191],
+    [9, 232],
+    [4, 195],
+  ])
+); // 2
