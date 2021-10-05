@@ -15,7 +15,7 @@ function solution(total, list) {
     }
   }
 
-  // 할인
+  // 할인받는 물건 체크
   for (let i = index; i < list.length; i++) {
     const value = list[i][0] / 2;
     sum += value + list[i][1];
