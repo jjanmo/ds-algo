@@ -139,10 +139,25 @@
 
 > 문자열 탐색
 
-| Index |     Problem     |              My Solution              |
-| :---: | :-------------: | :-----------------------------------: |
-|  01   |   자릿수의 합   | [Code](algorithm/section04/s04_01.js) |
-|  02   |   뒤집은 소수   | [Code](algorithm/section04/s04_02.js) |
-|  03   |  ⭐️⭐️ 멘토링  | [Code](algorithm/section04/s04_03.js) |
-|  04   |  ⭐️ 졸업 선물  | [Code](algorithm/section04/s04_04.js) |
-|  05   | ⭐️ K번째 큰 수 | [Code](algorithm/section04/s04_05.js) |
+| Index |     Problem      |              My Solution              |
+| :---: | :--------------: | :-----------------------------------: |
+|  01   |   자릿수의 합    | [Code](algorithm/section04/s04_01.js) |
+|  02   |   뒤집은 소수    | [Code](algorithm/section04/s04_02.js) |
+|  03   |  ⭐️⭐️ 멘토링   | [Code](algorithm/section04/s04_03.js) |
+|  04   | ⭐️⭐️ 졸업 선물 | [Code](algorithm/section04/s04_04.js) |
+|  05   |   K번째 큰 수    | [Code](algorithm/section04/s04_05.js) |
+
+### Section05
+
+> 효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)
+
+| Index |      Problem       |              My Solution              |
+| :---: | :----------------: | :-----------------------------------: |
+|  01   |   두 배열 합치기   | [Code](algorithm/section05/s05_01.js) |
+|  02   |  공통 원소 구하기  | [Code](algorithm/section05/s05_02.js) |
+|  03   |  연속 부분 수열1   | [Code](algorithm/section05/s05_03.js) |
+|  04   |  연속 부분 수열2   | [Code](algorithm/section05/s05_04.js) |
+|  05   |     최대 매출      | [Code](algorithm/section05/s05_05.js) |
+|  06   |     학생 회장      | [Code](algorithm/section05/s05_06.js) |
+|  07   |      아나그램      | [Code](algorithm/section05/s05_07.js) |
+|  08   | 모든 아나그램 찾기 | [Code](algorithm/section05/s05_08.js) |
