@@ -161,3 +161,12 @@
 |  06   |     학생 회장      | [Code](algorithm/section05/s05_06.js) |
 |  07   |      아나그램      | [Code](algorithm/section05/s05_07.js) |
 |  08   | 모든 아나그램 찾기 | [Code](algorithm/section05/s05_08.js) |
+
+### Section06
+
+> 자료구조(스택, 큐)
+
+| Index |   Problem    |              My Solution              |
+| :---: | :----------: | :-----------------------------------: |
+|  01   | 올바른 괄호  | [Code](algorithm/section05/s06_01.js) |
+|  02   | 괄호문자제거 | [Code](algorithm/section05/s06_02.js) |
