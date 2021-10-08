@@ -3,14 +3,12 @@ function solution(string) {
   const sArray = string.split('');
   let result = '';
   sArray.forEach(char => {
-    console.log(char, stack);
     if (char === '(') {
       stack.push(char);
     } else if (char === ')') {
       stack.pop(char);
     } else {
       if (stack.length === 0) {
-        // console.log(stack.length, char);
         result += char;
       }
     }
