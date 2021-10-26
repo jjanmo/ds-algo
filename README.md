@@ -65,16 +65,16 @@
 <br />
 
 |  #  |    DataStructure     |       Code       |
-| :-: | :------------------: | :--------------: |
+| :-: | :------------------: | :--------------: | --- |
 | 01  | [Stack](ds/stack.md) | [✔](ds/stack.js) |
 | 02  | [Queue](ds/queue.md) | [✔](ds/queue.js) |
-| 03  |    Priority Queue    |        ✔         |
+| 03  |    Priority Queue    |        ✔         | ❌  |
 | 04  |      LinkedList      |        ✔         |
 | 05  |   DoubleLinkedList   |        ✔         |
 | 06  |      HashTable       |        ✔         |
-| 07  |         Heap         |        ✔         |
+| 07  |         Heap         |        ✔         | ❌  |
 | 08  |         Tree         |        ✔         |
-| 09  |   BinarySearchTree   |        ✔         |
+| 09  |   BinarySearchTree   |        ✔         | ❌  |
 | 10  |        Graph         |        ✔         |
 
 <br />
