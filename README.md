@@ -1,26 +1,43 @@
 # Data Structure & Algorithm
 
-> 문제를 풀면서 필요했던 내용과 직접 작성한 코드를 바탕으로 정리한다.
+> 자료구조와 알고리즘을 공부하면서 직접 생각하고 고민한 내용을 코드를 통해서 기록하며, 새롭게 알아가는 내용, 정리하는 내용 또한 나의 언어로 기록한다.
 
-> 참고
+<br />
+<details>
+<summary style='font-size:18px'>참고 자료 </summary>
 
-- [JavaScript Algorithms Repo](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
-
-- [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
+- 🗒 [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
 
   > 위 블로그에 대해서 간단히 설명하면,
 
   - ~~기본적인(위밍업🤐)~~ 40문제에 대한 블로그인 줄 알고 시작했다. 그런데, 나중엔 문제 인덱스가 사라진다😎. 단지 40문제가 아니라는 것을 강조하는 것일 뿐😁.
+
   - 개발자라면 알아야하는 기본적인 문제와 자료구조, 알고리즘 개념들을 모아놓은 블로그라고 말하는 것이 맞는듯...`무조건 알아야하는 것`이랄까 or `한 번쯤은 반드시 구현해봤어야하는 것들에 대한 모음`이랄까. 쉬운 것도 있고 들어는봤지만 `코드로 생각해보진 않은 것`이랄까.
-  - 자료구조나 알고리즘을 배워본적이 없는 사람에겐 `출발의 방향성`을 줄 수 있는 블로그라고 생각한다.
 
-- [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+  - 자료구조나 알고리즘에 도전해본 적이 없는 사람에게 추천해줄 수 있는 블로그라고 생각한다.
 
-## ~~Basic~~ General
+- 🗒 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 
-> [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 에 대한 ~~`40문제`~~ 를 풀어보자 🚀
+- 🗒 [6 JavaScript data structures you must know](https://www.educative.io/blog/javascript-data-structures#questions)
 
-### Problems
+- 📺 [파이썬으로 배우는 알고리즘 기초](https://www.youtube.com/playlist?list=PLHqxB9kMLLaPOp0jh591QhPvbz4H266SS)
+
+- 📕 [알고리즘 기초](http://www.yes24.com/Product/Goods/37582683?OzSrank=1)
+
+- 📺 [자바스크립트 알고리즘 문제풀이](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+
+</details>
+<br />
+
+---
+
+# Basic
+
+> `Basic`이라고 쓰고 `기본`이라고 읽는다. 🔥
+
+## Problems
+
+> 참고 자료의 [첫번째 블로그](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 에 나온 문제들을 풀어본다.
 
 | #Problem |                               Themes                               |                Code                 |
 | :------: | :----------------------------------------------------------------: | :---------------------------------: |
@@ -64,7 +81,7 @@
 
 <br />
 
-|  #  |    DataStructure     |       Code       |
+|  #  |    DataStructure     |       Code       |     |
 | :-: | :------------------: | :--------------: | --- |
 | 01  | [Stack](ds/stack.md) | [✔](ds/stack.js) |
 | 02  | [Queue](ds/queue.md) | [✔](ds/queue.js) |
@@ -75,13 +92,34 @@
 | 07  |         Heap         |        ✔         | ❌  |
 | 08  |         Tree         |        ✔         |
 | 09  |   BinarySearchTree   |        ✔         | ❌  |
-| 10  |        Graph         |        ✔         |
+| 10  |        Graph         |        ✔         |     |
 
 <br />
 
-## Algorithm
+---
 
-> 자바스크립트로 알고리즘 문제를 풀면서 관련 **개념**을 정리한다.
+<br />
+
+# Algorithm
+
+## 개념정리
+
+> 알고리즘에 대한 이론을 정리한다. 하지만, 너무 이론에만 매몰되지않고 구현 중심의 이론을 정리해본다.
+
+> 정리는 [파이썬으로 배우는 알고리즘 기초](https://www.youtube.com/playlist?list=PLHqxB9kMLLaPOp0jh591QhPvbz4H266SS) 강의와 [알고리즘 기초](http://www.yes24.com/Product/Goods/37582683?OzSrank=1) 책을 기반으로 이루어진다.
+
+### Chapter01
+
+| Index | Problem  |               My Solution               | What I Learned |
+| :---: | :------: | :-------------------------------------: | :------------: |
+|  01   | 순차검색 | [Code](/algorithm/chapter01/ch01_01.js) |                |
+|  02   | 교환정렬 | [Code](/algorithm/chapter01/ch01_02.js) |                |
+
+<br />
+
+## Problems
+
+> 자바스크립트로 알고리즘 문제 풀기 🚀
 
 > 자바스크립트를 통해서 알고리즘을 공부하는 것에 대한 자료가 생각보다 많이 부족하고 스스로 공부하기 벅찬 부분이 있어서 [강의](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)의 도움을 빌렸다. 그렇기 때문에 내용(문제)에 대한 저작권이 있을 수 있기 때문에 내가 푼 소스 코드와 재가공한 내용에 대해서만 업로드를 할 예정이다. 조금 더 정확하고 자세한 설명을 원한다면 위 강의를 참고하시길...😅 (혹은 제목을 검색하면 비슷한 문제를 찾을 수 있을 것 같다.)
 
@@ -89,84 +127,84 @@
 
 > 기본문제
 
-| Index |      Problem      |              My Solution              |           What I Learned            |
-| :---: | :---------------: | :-----------------------------------: | :---------------------------------: |
-|  01   | 세 수 중에 최솟값 | [Code](algorithm/section01/s01_01.js) |                                     |
-|  02   |  삼각형 판별하기  | [Code](algorithm/section01/s01_02.js) |                                     |
-|  03   |     연필개수      | [Code](algorithm/section01/s01_03.js) |                                     |
-|  04   | 1부터 N까지의 합  | [Code](algorithm/section01/s01_04.js) |                                     |
-|  05   |   최솟값 구하기   | [Code](algorithm/section01/s01_05.js) |                                     |
-|  06   |       홀수        | [Code](algorithm/section01/s01_06.js) |                                     |
-|  07   |      10부제       | [Code](algorithm/section01/s01_07.js) |                                     |
-|  08   |    일곱난쟁이     | [Code](algorithm/section01/s01_08.js) |                                     |
-|  09   |     A를 #으로     | [Code](algorithm/section01/s01_09.js) |                                     |
-|  10   |     문자 찾기     | [Code](algorithm/section01/s01_10.js) |                                     |
-|  11   |    대문자 찾기    | [Code](algorithm/section01/s01_11.js) | [✔️](algorithm/section01/s01_11.md) |
-|  12   |   대문자로 통일   | [Code](algorithm/section01/s01_12.js) |                                     |
-|  13   |   대소문자 변환   | [Code](algorithm/section01/s01_13.js) |                                     |
-|  14   |  가장 긴 문자열   | [Code](algorithm/section01/s01_14.js) |                                     |
-|  15   | 가운데 문자 출력  | [Code](algorithm/section01/s01_15.js) |                                     |
-|  16   |   중복문제 제거   | [Code](algorithm/section01/s01_16.js) |                                     |
-|  17   |   중복단어 제거   | [Code](algorithm/section01/s01_17.js) |                                     |
+| Index |      Problem      |               My Solution                |             What I Learned             |
+| :---: | :---------------: | :--------------------------------------: | :------------------------------------: |
+|  01   | 세 수 중에 최솟값 | [Code](algorithm_pb/section01/s01_01.js) |                                        |
+|  02   |  삼각형 판별하기  | [Code](algorithm_pb/section01/s01_02.js) |                                        |
+|  03   |     연필개수      | [Code](algorithm_pb/section01/s01_03.js) |                                        |
+|  04   | 1부터 N까지의 합  | [Code](algorithm_pb/section01/s01_04.js) |                                        |
+|  05   |   최솟값 구하기   | [Code](algorithm_pb/section01/s01_05.js) |                                        |
+|  06   |       홀수        | [Code](algorithm_pb/section01/s01_06.js) |                                        |
+|  07   |      10부제       | [Code](algorithm_pb/section01/s01_07.js) |                                        |
+|  08   |    일곱난쟁이     | [Code](algorithm_pb/section01/s01_08.js) |                                        |
+|  09   |     A를 #으로     | [Code](algorithm_pb/section01/s01_09.js) |                                        |
+|  10   |     문자 찾기     | [Code](algorithm_pb/section01/s01_10.js) |                                        |
+|  11   |    대문자 찾기    | [Code](algorithm_pb/section01/s01_11.js) | [✔️](algorithm_pb/section01/s01_11.md) |
+|  12   |   대문자로 통일   | [Code](algorithm_pb/section01/s01_12.js) |                                        |
+|  13   |   대소문자 변환   | [Code](algorithm_pb/section01/s01_13.js) |                                        |
+|  14   |  가장 긴 문자열   | [Code](algorithm_pb/section01/s01_14.js) |                                        |
+|  15   | 가운데 문자 출력  | [Code](algorithm_pb/section01/s01_15.js) |                                        |
+|  16   |   중복문제 제거   | [Code](algorithm_pb/section01/s01_16.js) |                                        |
+|  17   |   중복단어 제거   | [Code](algorithm_pb/section01/s01_17.js) |                                        |
 
 ### Section02
 
 > 1,2차원 탐색
 
-| Index |    Problem     |              My Solution              |           What I Learned            |
-| :---: | :------------: | :-----------------------------------: | :---------------------------------: |
-|  01   | 큰 수 출력하기 | [Code](algorithm/section02/s02_01.js) |                                     |
-|  02   |  보이는 학생   | [Code](algorithm/section02/s02_02.js) |                                     |
-|  03   |   가위바위보   | [Code](algorithm/section02/s02_03.js) |                                     |
-|  04   |   점수 계산    | [Code](algorithm/section02/s02_04.js) |                                     |
-|  05   |  등수 구하기   | [Code](algorithm/section02/s02_05.js) |                                     |
-|  06   | 격자판 최대합  | [Code](algorithm/section02/s02_06.js) |                                     |
-|  07   |   ⭐️ 봉우리   | [Code](algorithm/section02/s02_07.js) | [✔️](algorithm/section02/s02_07.md) |
+| Index |    Problem     |               My Solution                |             What I Learned             |
+| :---: | :------------: | :--------------------------------------: | :------------------------------------: |
+|  01   | 큰 수 출력하기 | [Code](algorithm_pb/section02/s02_01.js) |                                        |
+|  02   |  보이는 학생   | [Code](algorithm_pb/section02/s02_02.js) |                                        |
+|  03   |   가위바위보   | [Code](algorithm_pb/section02/s02_03.js) |                                        |
+|  04   |   점수 계산    | [Code](algorithm_pb/section02/s02_04.js) |                                        |
+|  05   |  등수 구하기   | [Code](algorithm_pb/section02/s02_05.js) |                                        |
+|  06   | 격자판 최대합  | [Code](algorithm_pb/section02/s02_06.js) |                                        |
+|  07   |   ⭐️ 봉우리   | [Code](algorithm_pb/section02/s02_07.js) | [✔️](algorithm_pb/section02/s02_07.md) |
 
 ### Section03
 
 > 문자열 탐색
 
-| Index |      Problem       |              My Solution              |
-| :---: | :----------------: | :-----------------------------------: |
-|  01   |    회문 문자열     | [Code](algorithm/section03/s03_01.js) |
-|  02   |  유효한 팰린드롬   | [Code](algorithm/section03/s03_02.js) |
-|  03   |    숫자만 추출     | [Code](algorithm/section03/s03_03.js) |
-|  04   | 가장 짧은 문자거리 | [Code](algorithm/section03/s03_04.js) |
-|  05   |    문자열 압축     | [Code](algorithm/section03/s03_05.js) |
+| Index |      Problem       |               My Solution                |
+| :---: | :----------------: | :--------------------------------------: |
+|  01   |    회문 문자열     | [Code](algorithm_pb/section03/s03_01.js) |
+|  02   |  유효한 팰린드롬   | [Code](algorithm_pb/section03/s03_02.js) |
+|  03   |    숫자만 추출     | [Code](algorithm_pb/section03/s03_03.js) |
+|  04   | 가장 짧은 문자거리 | [Code](algorithm_pb/section03/s03_04.js) |
+|  05   |    문자열 압축     | [Code](algorithm_pb/section03/s03_05.js) |
 
 ### Section04
 
 > 문자열 탐색
 
-| Index |     Problem      |              My Solution              |
-| :---: | :--------------: | :-----------------------------------: |
-|  01   |   자릿수의 합    | [Code](algorithm/section04/s04_01.js) |
-|  02   |   뒤집은 소수    | [Code](algorithm/section04/s04_02.js) |
-|  03   |  ⭐️⭐️ 멘토링   | [Code](algorithm/section04/s04_03.js) |
-|  04   | ⭐️⭐️ 졸업 선물 | [Code](algorithm/section04/s04_04.js) |
-|  05   |   K번째 큰 수    | [Code](algorithm/section04/s04_05.js) |
+| Index |     Problem      |               My Solution                |
+| :---: | :--------------: | :--------------------------------------: |
+|  01   |   자릿수의 합    | [Code](algorithm_pb/section04/s04_01.js) |
+|  02   |   뒤집은 소수    | [Code](algorithm_pb/section04/s04_02.js) |
+|  03   |  ⭐️⭐️ 멘토링   | [Code](algorithm_pb/section04/s04_03.js) |
+|  04   | ⭐️⭐️ 졸업 선물 | [Code](algorithm_pb/section04/s04_04.js) |
+|  05   |   K번째 큰 수    | [Code](algorithm_pb/section04/s04_05.js) |
 
 ### Section05
 
 > 효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)
 
-| Index |      Problem       |              My Solution              |
-| :---: | :----------------: | :-----------------------------------: |
-|  01   |   두 배열 합치기   | [Code](algorithm/section05/s05_01.js) |
-|  02   |  공통 원소 구하기  | [Code](algorithm/section05/s05_02.js) |
-|  03   |  연속 부분 수열1   | [Code](algorithm/section05/s05_03.js) |
-|  04   |  연속 부분 수열2   | [Code](algorithm/section05/s05_04.js) |
-|  05   |     최대 매출      | [Code](algorithm/section05/s05_05.js) |
-|  06   |     학생 회장      | [Code](algorithm/section05/s05_06.js) |
-|  07   |      아나그램      | [Code](algorithm/section05/s05_07.js) |
-|  08   | 모든 아나그램 찾기 | [Code](algorithm/section05/s05_08.js) |
+| Index |      Problem       |               My Solution                |
+| :---: | :----------------: | :--------------------------------------: |
+|  01   |   두 배열 합치기   | [Code](algorithm_pb/section05/s05_01.js) |
+|  02   |  공통 원소 구하기  | [Code](algorithm_pb/section05/s05_02.js) |
+|  03   |  연속 부분 수열1   | [Code](algorithm_pb/section05/s05_03.js) |
+|  04   |  연속 부분 수열2   | [Code](algorithm_pb/section05/s05_04.js) |
+|  05   |     최대 매출      | [Code](algorithm_pb/section05/s05_05.js) |
+|  06   |     학생 회장      | [Code](algorithm_pb/section05/s05_06.js) |
+|  07   |      아나그램      | [Code](algorithm_pb/section05/s05_07.js) |
+|  08   | 모든 아나그램 찾기 | [Code](algorithm_pb/section05/s05_08.js) |
 
 ### Section06
 
 > 자료구조(스택, 큐)
 
-| Index |   Problem    |              My Solution              |
-| :---: | :----------: | :-----------------------------------: |
-|  01   | 올바른 괄호  | [Code](algorithm/section05/s06_01.js) |
-|  02   | 괄호문자제거 | [Code](algorithm/section05/s06_02.js) |
+| Index |   Problem    |               My Solution                |
+| :---: | :----------: | :--------------------------------------: |
+|  01   | 올바른 괄호  | [Code](algorithm_pb/section05/s06_01.js) |
+|  02   | 괄호문자제거 | [Code](algorithm_pb/section05/s06_02.js) |
