@@ -112,10 +112,11 @@
 
 ### Chapter01
 
-| Index | Problem  |               My Solution               | What I Learned |
-| :---: | :------: | :-------------------------------------: | :------------: |
-|  01   | 순차검색 | [Code](/algorithm/chapter01/ch01_01.js) |                |
-|  02   | 교환정렬 | [Code](/algorithm/chapter01/ch01_02.js) |                |
+| Index |     Problem     |               My Solution               | What I Learned |
+| :---: | :-------------: | :-------------------------------------: | :------------: |
+|  01   |    순차검색     | [Code](/algorithm/chapter01/ch01_01.js) |                |
+|  02   |    교환정렬     | [Code](/algorithm/chapter01/ch01_02.js) |                |
+|  03   | 행렬의 곱셈검색 | [Code](/algorithm/chapter01/ch01_03.js) |                |
 
 <br />
 
@@ -210,3 +211,14 @@
 | :---: | :----------: | :--------------------------------------: |
 |  01   | 올바른 괄호  | [Code](algorithm_pb/section05/s06_01.js) |
 |  02   | 괄호문자제거 | [Code](algorithm_pb/section05/s06_02.js) |
+
+### Section07
+
+> 정렬과 그리디, 결정알고리즘(이분검색)
+
+| Index |          Problem          |               My Solution                |
+| :---: | :-----------------------: | :--------------------------------------: |
+|  01   |         선택 정렬         | [Code](algorithm_pb/section07/s07_01.js) |
+|  02   |         버블 정렬         | [Code](algorithm_pb/section07/s07_02.js) |
+|  03   | Special Sort(구글 인터뷰) | [Code](algorithm_pb/section07/s07_03.js) |
+|  03   |         삽입 정렬         | [Code](algorithm_pb/section07/s07_04.js) |
