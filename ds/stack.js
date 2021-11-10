@@ -56,3 +56,35 @@ console.log(solution1('{[()]}')); // true
 console.log(solution1('{[([({))]}}')); //false
 console.log(solution1(')(')); //false
 console.log(solution1('{)')); //false ✅
+
+console.log('------------------');
+
+function solution2(string) {
+  const stack = [];
+
+  for (let i = 0; i < string.length; i++) {
+    if (string[i] === '{' || string[i] === '[' || string[i] === '(') {
+      stack.push(string[i]);
+    } else {
+      if (stack.length === 0) return false;
+      else {
+        const bracket = stack.pop(string[i]); // stack에서 꺼낸 값
+        if (
+          (bracket === '{' && string[i] !== '}') ||
+          (bracket === '[' && string[i] !== ']') ||
+          (bracket === '(' && string[i] !== ')')
+        )
+          return false;
+      }
+    }
+  }
+
+  return !stack.length; // length가 0 이다 → falsy → !falsy === true
+}
+
+console.log(solution2('{[()]}')); // true
+console.log(solution2('{[([({))]}}')); //false
+console.log(solution2(')(')); //false
+console.log(solution2('{)')); //false
+console.log(solution2('(')); //false
+console.log(solution2('}')); //false
