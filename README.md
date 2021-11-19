@@ -2,15 +2,14 @@
 
 > 자료구조와 알고리즘을 공부하면서 직접 생각하고 고민한 내용을 코드를 통해서 기록하며, 새롭게 알아가는 내용, 정리하는 내용 또한 나의 언어로 기록한다.
 
-<br />
 <details>
-<summary style='font-size:18px'>참고 자료 </summary>
+<summary>참고 자료 </summary>
 
 - 🗒 [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 👍
 
   > 위 블로그에 대해서 간단히 설명하면,
 
-  - 대략 40문제정도로 이루어진 블로그로서, 사실 처음에는 간단하고 쉬운 문제들이라고 생각했다. 하지만 이는 오산이였고, 뒤로갈수록 좀 더 생각하게 만드는 문제들이였다.(물론 내가 알린이 😢 이기 때문에 그럴 수도 있다.)
+  - 대략 40문제 정도로 이루어진 블로그로서, 사실 처음에는 간단하고 쉬운 문제들이라고 생각했다. 하지만 이는 오산이였고, 뒤로갈수록 좀 더 생각하게 만드는 문제들이였다.(물론 내가 알린이 😢 이기 때문에 그럴 수도 있다.)
 
   - 블로그의 문제는 라이브 코딩 인터뷰에서 마주할법한 문제들에 대한 모음이다. 개인적으로 개발자라면 알아야하는 기본적인 문제와 자료구조, 알고리즘 개념들을 모아놓은 자료구조 & 알고리즘 콜렉션 블로그라고 생각한다.
 
@@ -20,16 +19,11 @@
 
 - 🗒 [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 
-- 🗒 [6 JavaScript data structures you must know](https://www.educative.io/blog/javascript-data-structures#questions)
-
-- 📺 [파이썬으로 배우는 알고리즘 기초](https://www.youtube.com/playlist?list=PLHqxB9kMLLaPOp0jh591QhPvbz4H266SS)
-
-- 📕 [알고리즘 기초](http://www.yes24.com/Product/Goods/37582683?OzSrank=1)
-
 - 📺 [자바스크립트 알고리즘 문제풀이](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
 
+- 📺 [코드없는 프로그래밍 유튜브 채널](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg)
+
 </details>
-<br />
 
 ---
 
@@ -39,7 +33,7 @@
 
 ## Problems
 
-> 참고 자료의 [첫번째 블로그](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 에 나온 문제들을 풀어본다.
+> 참고 자료의 [해당 블로그](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038) 에 나온 문제들을 풀어본다.
 
 | #Problem |                               Themes                               |                Code                 |
 | :------: | :----------------------------------------------------------------: | :---------------------------------: |
@@ -67,58 +61,34 @@
 |    21    |                              Pyramid                               |        [✔](basic/pyramid.js)        |
 |    22    |                           Matrix Spiral                            |     [✔](basic/matrixSpiral.js)      |
 
-<br />
+---
 
-## Data Structure
+# Data Structures
 
-> Data Structure is <u>the `building blocks` of algorithms</u>
+> What is Data Struture and Why need it?
 
-> 다양한 자료 구조가 존재한다. 각각의 자료 구조의 특징을 알아보고 그것을 `언제(When)`, `왜(Why)`사용하는지에 대해서 알아보자.
+## Array
 
-> 자료 구조는 크게 3가지로 구분한다.
+| Index |                                            Problem                                            |        Code         |
+| :---: | :-------------------------------------------------------------------------------------------: | :-----------------: |
+|  #1   |             [LEET : binary-search ](https://leetcode.com/problems/binary-search/)             | [✔](ds/array/#1.js) |
+|  #2   |               [LEET : move-zeroes ](https://leetcode.com/problems/move-zeroes/)               | [✔](ds/array/#2.js) |
+|  #3   |               [LEET : sort-colors ](https://leetcode.com/problems/sort-colors/)               | [✔](ds/array/#3.js) |
+|  #4   |          [LEET : find-pivot-index ](https://leetcode.com/problems/find-pivot-index/)          | [✔](ds/array/#4.js) |
+|  #5   | [LEET : minimum-size-subarray-sum ](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✔](ds/array/#5.js) |
+|  #6   |        [LEET : merge-sorted-array ](https://leetcode.com/problems/merge-sorted-array/)        | [✔](ds/array/#6.js) |
 
-- <u>array like structure</u>인 **Stack**과 **Queues**. 위 둘은 자료 구조 안에 자료를 넣고 제거하는 방식의 차이점이 있다.
-- <u>노드 기반</u>의 자료 구조인 **Linked Lists**, **Trees**, **Graphs**
-- <u>해쉬 함수</u>에 의해 변경되어 저장되는 **Hash Tables**
+## Graph
 
-<br />
-
-|  #  |    DataStructure     |       Code       |     |
-| :-: | :------------------: | :--------------: | --- |
-| 01  | [Stack](ds/stack.md) | [✔](ds/stack.js) |
-| 02  | [Queue](ds/queue.md) | [✔](ds/queue.js) |
-| 03  |    Priority Queue    |        ✔         | ❌  |
-| 04  |      LinkedList      |        ✔         |
-| 05  |   DoubleLinkedList   |        ✔         |
-| 06  |      HashTable       |        ✔         |
-| 07  |         Heap         |        ✔         | ❌  |
-| 08  |         Tree         |        ✔         |
-| 09  |   BinarySearchTree   |        ✔         | ❌  |
-| 10  |        Graph         |        ✔         |     |
-
-<br />
+| Index |                                   Problem                                    |        Code         |
+| :---: | :--------------------------------------------------------------------------: | :-----------------: |
+|  #1   |    [LEET : keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/)    | [✔](ds/graph/#1.js) |
+|  #2   | [LEET : number-of-islands](https://leetcode.com/problems/number-of-islands/) | [✔](ds/graph/#2.js) |
+|  #2   |        [LEET : flood-fill](https://leetcode.com/problems/flood-fill/)        |   [✔](ds/graph/)    |
 
 ---
 
-<br />
-
 # Algorithm
-
-## 개념정리
-
-> 알고리즘에 대한 이론을 정리한다. 하지만, 너무 이론에만 매몰되지않고 구현 중심의 이론을 정리해본다.
-
-> 정리는 [파이썬으로 배우는 알고리즘 기초](https://www.youtube.com/playlist?list=PLHqxB9kMLLaPOp0jh591QhPvbz4H266SS) 강의와 [알고리즘 기초](http://www.yes24.com/Product/Goods/37582683?OzSrank=1) 책을 기반으로 이루어진다.
-
-### Chapter01
-
-| Index |     Problem     |               My Solution               | What I Learned |
-| :---: | :-------------: | :-------------------------------------: | :------------: |
-|  01   |    순차검색     | [Code](/algorithm/chapter01/ch01_01.js) |                |
-|  02   |    교환정렬     | [Code](/algorithm/chapter01/ch01_02.js) |                |
-|  03   | 행렬의 곱셈검색 | [Code](/algorithm/chapter01/ch01_03.js) |                |
-
-<br />
 
 ## Problems
 
@@ -216,9 +186,23 @@
 
 > 정렬과 그리디, 결정알고리즘(이분검색)
 
-| Index |          Problem          |               My Solution                |
-| :---: | :-----------------------: | :--------------------------------------: |
-|  01   |         선택 정렬         | [Code](algorithm_pb/section07/s07_01.js) |
-|  02   |         버블 정렬         | [Code](algorithm_pb/section07/s07_02.js) |
-|  03   | Special Sort(구글 인터뷰) | [Code](algorithm_pb/section07/s07_03.js) |
-|  03   |         삽입 정렬         | [Code](algorithm_pb/section07/s07_04.js) |
+| Index |                  Problem                   |               My Solution                |
+| :---: | :----------------------------------------: | :--------------------------------------: |
+|  01   |                 선택 정렬                  | [Code](algorithm_pb/section07/s07_01.js) |
+|  02   |                 버블 정렬                  | [Code](algorithm_pb/section07/s07_02.js) |
+|  03   |         Special Sort(구글 인터뷰)          | [Code](algorithm_pb/section07/s07_03.js) |
+|  04   |                 삽입 정렬                  | [Code](algorithm_pb/section07/s07_04.js) |
+|  05   | Least Recently Used(카카오 캐시 문제 변형) | [Code](algorithm_pb/section07/s07_05.js) |
+|  06   |              장난꾸러기 현수               | [Code](algorithm_pb/section07/s07_06.js) |
+|  07   |                 좌표 정렬                  | [Code](algorithm_pb/section07/s07_07.js) |
+
+### Section08
+
+> 재귀함수와 완전탐색(DFS:깊이우선탐색)
+
+| Index |            Problem            |               My Solution                |             What I Learned             |
+| :---: | :---------------------------: | :--------------------------------------: | :------------------------------------: |
+|  01   |           재귀함수            | [Code](algorithm_pb/section08/s08_01.js) |                                        |
+|  02   | 재귀함수를 이용한 이진수 출력 | [Code](algorithm_pb/section08/s08_02.js) |                                        |
+|  03   |         이진트리 순회         | [Code](algorithm_pb/section08/s08_03.js) | [✔️](algorithm_pb/section08/s08_03.md) |
+|  03   |        부분집합 구하기        | [Code](algorithm_pb/section08/s08_04.js) | [✔️](algorithm_pb/section08/s08_04.md) |
