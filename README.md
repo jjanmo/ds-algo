@@ -84,7 +84,7 @@
 | :---: | :--------------------------------------------------------------------------: | :-----------------: |
 |  #1   |    [LEET : keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/)    | [✔](ds/graph/#1.js) |
 |  #2   | [LEET : number-of-islands](https://leetcode.com/problems/number-of-islands/) | [✔](ds/graph/#2.js) |
-|  #2   |        [LEET : flood-fill](https://leetcode.com/problems/flood-fill/)        |   [✔](ds/graph/)    |
+|  #3   |        [LEET : flood-fill](https://leetcode.com/problems/flood-fill/)        | [✔](ds/graph/#3.js) |
 
 ---
 
@@ -206,3 +206,11 @@
 |  02   | 재귀함수를 이용한 이진수 출력 | [Code](algorithm_pb/section08/s08_02.js) |                                        |
 |  03   |         이진트리 순회         | [Code](algorithm_pb/section08/s08_03.js) | [✔️](algorithm_pb/section08/s08_03.md) |
 |  03   |        부분집합 구하기        | [Code](algorithm_pb/section08/s08_04.js) | [✔️](algorithm_pb/section08/s08_04.md) |
+
+<br />
+
+# Challenges
+
+> 나만의 알고리즘 챌린지를 기록해본다.
+
+- [Algorithm 150](./docs/algorithm150.md)
