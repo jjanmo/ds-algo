@@ -213,4 +213,4 @@
 
 > 나만의 알고리즘 챌린지를 기록해본다.
 
-- [Algorithm 150](./docs/algorithm150.md)
+- [Algorithm 150](/docs/algorithm150.md)

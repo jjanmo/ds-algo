@@ -27,6 +27,7 @@
 
 ## Problems
 
-| Index |   Date   | Category |                                            Problem                                            |            Code            |
-| :---: | :------: | :------: | :-------------------------------------------------------------------------------------------: | :------------------------: |
-|  01   | 21.11.21 |  Greedy  | [LEETCode : maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [Code](150pb/greedy/#1.js) |
+| Index |   Date   | Category |                                                       Problem                                                       |            Code             | Check |
+| :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------: | :---: |
+|  01   | 21.11.21 |  Greedy  |            [LEETCode : maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)            | [Code](/150pb/greedy/#1.js) |       |
+|  02   | 21.11.22 |  Greedy  | [LEETCode : minimum-deletion-cost](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Code](/150pb/greedy/#2.js) |  ⭐️  |
