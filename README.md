@@ -69,22 +69,22 @@
 
 ## Array
 
-| Index |                                            Problem                                            |        Code         |
-| :---: | :-------------------------------------------------------------------------------------------: | :-----------------: |
-|  #1   |             [LEET : binary-search ](https://leetcode.com/problems/binary-search/)             | [✔](ds/array/#1.js) |
-|  #2   |               [LEET : move-zeroes ](https://leetcode.com/problems/move-zeroes/)               | [✔](ds/array/#2.js) |
-|  #3   |               [LEET : sort-colors ](https://leetcode.com/problems/sort-colors/)               | [✔](ds/array/#3.js) |
-|  #4   |          [LEET : find-pivot-index ](https://leetcode.com/problems/find-pivot-index/)          | [✔](ds/array/#4.js) |
-|  #5   | [LEET : minimum-size-subarray-sum ](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✔](ds/array/#5.js) |
-|  #6   |        [LEET : merge-sorted-array ](https://leetcode.com/problems/merge-sorted-array/)        | [✔](ds/array/#6.js) |
+| Index |                                            Problem                                            |        Code        |
+| :---: | :-------------------------------------------------------------------------------------------: | :----------------: |
+|  01   |             [LEET : binary-search ](https://leetcode.com/problems/binary-search/)             | [✔](ds/array/1.js) |
+|  02   |               [LEET : move-zeroes ](https://leetcode.com/problems/move-zeroes/)               | [✔](ds/array/2.js) |
+|  03   |               [LEET : sort-colors ](https://leetcode.com/problems/sort-colors/)               | [✔](ds/array/3.js) |
+|  04   |          [LEET : find-pivot-index ](https://leetcode.com/problems/find-pivot-index/)          | [✔](ds/array/4.js) |
+|  05   | [LEET : minimum-size-subarray-sum ](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✔](ds/array/5.js) |
+|  06   |        [LEET : merge-sorted-array ](https://leetcode.com/problems/merge-sorted-array/)        | [✔](ds/array/6.js) |
 
 ## Graph
 
-| Index |                                   Problem                                    |        Code         |
-| :---: | :--------------------------------------------------------------------------: | :-----------------: |
-|  #1   |    [LEET : keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/)    | [✔](ds/graph/#1.js) |
-|  #2   | [LEET : number-of-islands](https://leetcode.com/problems/number-of-islands/) | [✔](ds/graph/#2.js) |
-|  #3   |        [LEET : flood-fill](https://leetcode.com/problems/flood-fill/)        | [✔](ds/graph/#3.js) |
+| Index |                                   Problem                                    |        Code        |
+| :---: | :--------------------------------------------------------------------------: | :----------------: |
+|  01   |    [LEET : keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/)    | [✔](ds/graph/1.js) |
+|  02   | [LEET : number-of-islands](https://leetcode.com/problems/number-of-islands/) | [✔](ds/graph/2.js) |
+|  03   |        [LEET : flood-fill](https://leetcode.com/problems/flood-fill/)        | [✔](ds/graph/3.js) |
 
 ---
 
