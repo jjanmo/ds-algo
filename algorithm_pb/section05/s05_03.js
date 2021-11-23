@@ -15,9 +15,14 @@ function solution1(array, total) {
   return count;
 }
 
+// console.log(solution1([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
+// console.log(solution1([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
+// console.log(solution1([1, 1, 1], 2)); // 2
+
 // 내가 생각한 투포인트 알고리즘을 이용한 풀이
 // 셀프 피드백 : 뭔가 드럽고 😡 뭔가 정돈되지 못함. 주먹구구식 풀이,,, 뭔가 더 깔끔하게 만들수 있는 방법이 있지 않을까하는 강렬한 욕구가 쏫아오름.
 // 반례 존재!!! 재도전하기!!!
+// 틀린 풀이 😱
 function solution2(array, total) {
   let p1 = 0,
     count = 0,
@@ -49,48 +54,39 @@ function solution2(array, total) {
   return count;
 }
 
+// console.log(solution2([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
+// console.log(solution2([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
+// console.log(solution2([1, 1, 1], 2)); // 2 : 반례
+
 /*
 이 문제에서의 투포인트 알고리즘은 lt와 rt가 포인트이다.
 합을 비교할 때,
 → 더한 값이 주어진 값보다 작으면 rt가 증가
 → 더한 값이 주어진 값보다 크면 lt가 증가
 */
-function solution3(array, total) {
-  let lt = 0,
-    rt = 0,
-    sum = 0,
-    count = 0;
-  let cnt = 0;
 
-  while (rt !== array.length) {
-    cnt++;
+// 재도전 😜
+function solution3(array, total) {
+  let left = 0,
+    right = 0,
+    sum = array[0],
+    count = 0;
+
+  while (right < array.length) {
     if (sum < total) {
-      console.log('1');
-      rt++;
-      sum += array[rt];
+      right++;
+      sum += array[right];
     } else {
-      console.log('2');
-      if (sum === total) count++;
-      sum -= array[lt];
-      lt++;
+      left++;
+      sum -= array[left];
     }
-    console.log(count, rt, sum);
+
+    if (sum === total) count++;
   }
-  console.log('cnt', cnt);
+
   return count;
 }
 
-function solution4(array, total) {
-  // for - while
-}
-
-// console.log(solution1([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
-// console.log(solution1([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
-
-// console.log(solution2([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
-// console.log(solution2([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
+console.log(solution3([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
+console.log(solution3([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
 console.log(solution3([1, 1, 1], 2)); // 2
-
-// console.log(solution3([1, 2, 1, 3, 1, 1, 1, 2], 6)); // 3
-// console.log(solution3([1, 2, 1, 3, 1, 1, 1, 2], 3)); // 4
-// console.log(solution3([1, 1, 1], 2)); // 2
