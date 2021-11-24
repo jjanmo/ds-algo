@@ -27,7 +27,13 @@
 
 ## Problems
 
-| Index |   Date   | Category |                                                       Problem                                                       |          Solution          | Check |
-| :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------------: | :------------------------: | :---: |
-|  01   | 21.11.21 |  Greedy  |            [LEETCode : maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)            | [Code](/150pb/greedy/1.js) |       |
-|  02   | 21.11.22 |  Greedy  | [LEETCode : minimum-deletion-cost](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Code](/150pb/greedy/2.js) |  ⭐️  |
+> `LC` → LEET Code | `PR` → Programmers | `BJ` → BaekJoon
+
+| Index |   Date   | Category |                                                    Problem                                                    |          Solution          | Check |
+| :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------: | :---: |
+|  01   | 21.11.21 |  Greedy  |            [LC: maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)             | [Code](/150pb/greedy/1.js) |       |
+|  02   | 21.11.22 |  Greedy  | [LC : minimum-deletion-cost](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Code](/150pb/greedy/2.js) |  ⭐️  |
+|  03   | 21.11.22 |  Greedy  |                [LC : two-city-scheduling](https://leetcode.com/problems/two-city-scheduling/)                 | [Code](/150pb/greedy/3.js) |  ⭐️  |
+|  04   | 21.11.22 |  Greedy  | [LC : split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [Code](/150pb/greedy/4.js) |  ⭐️  |
+|  05   | 21.11.23 |  Greedy  |                  [LC : maximum-69-number](https://leetcode.com/problems/maximum-69-number/)                   | [Code](/150pb/greedy/5.js) |       |
+|  06   | 21.11.24 |  Greedy  |                             [BJ : 순회강연](https://www.acmicpc.net/problem/2109)                             | [Code](/150pb/greedy/6.js) |  ⭐️  |

@@ -166,8 +166,8 @@
 | :---: | :----------------: | :--------------------------------------: |
 |  01   |   두 배열 합치기   | [Code](algorithm_pb/section05/s05_01.js) |
 |  02   |  공통 원소 구하기  | [Code](algorithm_pb/section05/s05_02.js) |
-|  03   |  연속 부분 수열1   | [Code](algorithm_pb/section05/s05_03.js) |
-|  04   |  연속 부분 수열2   | [Code](algorithm_pb/section05/s05_04.js) |
+|  03   | ⭐️연속 부분 수열1 | [Code](algorithm_pb/section05/s05_03.js) |
+|  04   | ⭐️연속 부분 수열2 | [Code](algorithm_pb/section05/s05_04.js) |
 |  05   |     최대 매출      | [Code](algorithm_pb/section05/s05_05.js) |
 |  06   |     학생 회장      | [Code](algorithm_pb/section05/s05_06.js) |
 |  07   |      아나그램      | [Code](algorithm_pb/section05/s05_07.js) |
@@ -195,6 +195,7 @@
 |  05   | Least Recently Used(카카오 캐시 문제 변형) | [Code](algorithm_pb/section07/s07_05.js) |
 |  06   |              장난꾸러기 현수               | [Code](algorithm_pb/section07/s07_06.js) |
 |  07   |                 좌표 정렬                  | [Code](algorithm_pb/section07/s07_07.js) |
+|  08   |           ⭐️⭐️⭐️ 회의실 배정            | [Code](algorithm_pb/section07/s07_08.js) |
 
 ### Section08
 
