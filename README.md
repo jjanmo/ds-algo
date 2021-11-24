@@ -78,6 +78,12 @@
 |  05   | [LEET : minimum-size-subarray-sum ](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✔](ds/array/5.js) |
 |  06   |        [LEET : merge-sorted-array ](https://leetcode.com/problems/merge-sorted-array/)        | [✔](ds/array/6.js) |
 
+## Stack
+
+| Index |                                   Problem                                    |        Code        |
+| :---: | :--------------------------------------------------------------------------: | :----------------: |
+|  01   | [LEET : valid-parentheses ](https://leetcode.com/problems/valid-parentheses) | [✔](ds/stack/1.js) |
+
 ## Graph
 
 | Index |                                   Problem                                    |        Code        |
