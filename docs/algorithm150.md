@@ -36,12 +36,16 @@
 
 > `LC` → LEET Code | `PG` → Programmers | `BJ` → BaekJoon
 
-| Index |   Date   | Category |                                                    Problem                                                    |          Solution          | Check |
-| :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------: | :---: |
-|  01   | 21.11.21 |  Greedy  |            [LC: maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)             | [Code](/150pb/greedy/1.js) |       |
-|  02   | 21.11.22 |  Greedy  | [LC : minimum-deletion-cost](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Code](/150pb/greedy/2.js) |  ⭐️  |
-|  03   | 21.11.22 |  Greedy  |                [LC : two-city-scheduling](https://leetcode.com/problems/two-city-scheduling/)                 | [Code](/150pb/greedy/3.js) |  ⭐️  |
-|  04   | 21.11.22 |  Greedy  | [LC : split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [Code](/150pb/greedy/4.js) |  ⭐️  |
-|  05   | 21.11.23 |  Greedy  |                  [LC : maximum-69-number](https://leetcode.com/problems/maximum-69-number/)                   | [Code](/150pb/greedy/5.js) |       |
-|  06   | 21.11.24 |  Greedy  |                             [BJ : 순회강연](https://www.acmicpc.net/problem/2109)                             | [Code](/150pb/greedy/6.js) |  ⭐️  |
-|  07   | 21.11.25 |  Greedy  |                             [BJ : 신입사원](https://www.acmicpc.net/problem/1946)                             | [Code](/150pb/greedy/7.js) |  ⭐️  |
+| Index |   Date   | Category |                                                    Problem                                                    |          Solution           |   Check   |
+| :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------: | :-------: |
+|  01   | 21.11.21 |  Greedy  |            [LC: maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)             | [Code](/150pb/greedy/1.js)  |           |
+|  02   | 21.11.22 |  Greedy  | [LC : minimum-deletion-cost](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [Code](/150pb/greedy/2.js)  |    ⭐️    |
+|  03   | 21.11.22 |  Greedy  |                [LC : two-city-scheduling](https://leetcode.com/problems/two-city-scheduling/)                 | [Code](/150pb/greedy/3.js)  |    ⭐️    |
+|  04   | 21.11.22 |  Greedy  | [LC : split-a-string-in-balanced-strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)  | [Code](/150pb/greedy/4.js)  |    ⭐️    |
+|  05   | 21.11.23 |  Greedy  |                  [LC : maximum-69-number](https://leetcode.com/problems/maximum-69-number/)                   | [Code](/150pb/greedy/5.js)  |           |
+|  06   | 21.11.24 |  Greedy  |                             [BJ : 순회강연](https://www.acmicpc.net/problem/2109)                             | [Code](/150pb/greedy/6.js)  |    ⭐️    |
+|  07   | 21.11.25 |  Greedy  |                             [BJ : 신입사원](https://www.acmicpc.net/problem/1946)                             | [Code](/150pb/greedy/7.js)  |    ⭐️    |
+|  08   | 21.11.26 |  Greedy  |                           [BJ : 알바생 강호](https://www.acmicpc.net/problem/1758)                            | [Code](/150pb/greedy/8.js)  |           |
+|  09   | 21.11.26 |  Greedy  |                          📌 [BJ : 라면 사기](https://www.acmicpc.net/problem/18185)                           | [Code](/150pb/greedy/9.js)  | ⭐️⭐️⭐️ |
+|  10   | 21.11.27 |  Greedy  |                              [BJ : 보물 ](https://www.acmicpc.net/problem/1026)                               | [Code](/150pb/greedy/10.js) |           |
+|  11   | 21.11.27 |  Greedy  |                          [BJ : 잃어버린 괄호 ](https://www.acmicpc.net/problem/1541)                          | [Code](/150pb/greedy/11.js) |           |
