@@ -49,3 +49,6 @@
 |  09   | 21.11.26 |  Greedy  |                          📌 [BJ : 라면 사기](https://www.acmicpc.net/problem/18185)                           | [Code](/150pb/greedy/9.js)  | ⭐️⭐️⭐️ |
 |  10   | 21.11.27 |  Greedy  |                              [BJ : 보물 ](https://www.acmicpc.net/problem/1026)                               | [Code](/150pb/greedy/10.js) |           |
 |  11   | 21.11.27 |  Greedy  |                          [BJ : 잃어버린 괄호 ](https://www.acmicpc.net/problem/1541)                          | [Code](/150pb/greedy/11.js) |           |
+|  12   | 21.11.28 |  Greedy  |                           [BJ : 전자레인지 ](https://www.acmicpc.net/problem/10162)                           | [Code](/150pb/greedy/12.js) |           |
+|  13   | 21.11.28 |  Greedy  |                            [BJ : 수들의 합 ](https://www.acmicpc.net/problem/1789)                            | [Code](/150pb/greedy/13.js) |           |
+|  14   | 21.11.28 |  Greedy  |                        [BJ : 세탁소 사장 동혁 ](https://www.acmicpc.net/problem/2720)                         | [Code](/150pb/greedy/14.js) |           |
