@@ -53,3 +53,5 @@
 |  13   | 21.11.28 |  Greedy  |                            [BJ : 수들의 합 ](https://www.acmicpc.net/problem/1789)                            | [Code](/150pb/greedy/13.js) |           |
 |  14   | 21.11.29 |  Greedy  |                        [BJ : 세탁소 사장 동혁 ](https://www.acmicpc.net/problem/2720)                         | [Code](/150pb/greedy/14.js) |           |
 |  15   | 21.11.29 |  Greedy  |                             [BJ : 주유소 ](https://www.acmicpc.net/problem/13305)                             | [Code](/150pb/greedy/15.js) |  ⭐️⭐️   |
+|  16   | 21.11.30 |  Greedy  |                [PG : 큰 수 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/42883)                 | [Code](/150pb/greedy/16.js) | ⭐️⭐️⭐️ |
+|  17   | 21.12.01 |  Greedy  |                  [PG : 구명보트 ](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [Code](/150pb/greedy/17.js) |    ⭐️    |
