@@ -55,3 +55,6 @@
 |  15   | 21.11.29 |  Greedy  |                             [BJ : 주유소 ](https://www.acmicpc.net/problem/13305)                             | [Code](/150pb/greedy/15.js) |  ⭐️⭐️   |
 |  16   | 21.11.30 |  Greedy  |                [PG : 큰 수 만들기 ](https://programmers.co.kr/learn/courses/30/lessons/42883)                 | [Code](/150pb/greedy/16.js) | ⭐️⭐️⭐️ |
 |  17   | 21.12.01 |  Greedy  |                  [PG : 구명보트 ](https://programmers.co.kr/learn/courses/30/lessons/42885)                   | [Code](/150pb/greedy/17.js) |    ⭐️    |
+|  18   | 21.12.08 |  Greedy  |                            [BJ : 설탕 배달 ](https://www.acmicpc.net/problem/2839)                            | [Code](/150pb/greedy/18.js) |    ⭐️    |
+|  19   | 21.12.09 |  Greedy  |                            [BJ : 거스름돈 ](https://www.acmicpc.net/problem/5585)                             | [Code](/150pb/greedy/19.js) |           |
+|  20   | 21.12.09 |  Greedy  |                              [BJ : 로프 ](https://www.acmicpc.net/problem/2217)                               | [Code](/150pb/greedy/20.js) |  ⭐️⭐️   |
