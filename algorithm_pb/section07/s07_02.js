@@ -21,4 +21,4 @@ function solution(array) {
   return array;
 }
 
-console.log(solution([13, 5, 11, 7, 23, 15]));
+console.log(solution([13, 5, 11, 7, 23, 15])); // 5 7 11 13 15 23
