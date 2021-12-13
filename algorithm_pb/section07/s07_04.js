@@ -20,4 +20,4 @@ function solution(array) {
   return array;
 }
 
-console.log(solution([11, 7, 5, 6, 10, 9]));
+console.log(solution([11, 7, 5, 6, 10, 9])); // 5 6 7 9 10 11
