@@ -18,6 +18,7 @@ console.log(solution1([120, 125, 152, 130, 135, 135, 143, 127, 160])); // 3 8
 console.log(solution1([120, 130, 150, 150, 130, 150])); // 3 5
 console.log(solution1([122, 123, 125, 125, 128, 161, 167, 167, 167, 161, 170])); // 7 10
 
+// 반례가 있는 풀이
 function solution2(array) {
   let hIndex, pIndex; // hIndex 현수가 받은 번호, pIndex 짝꿍이 받은 번호
   for (let i = 0; i < array.length - 1; i++) {
