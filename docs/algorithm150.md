@@ -21,20 +21,22 @@
 
 <br />
 
-※ 참고
+✅ Updated 2022.02.12
+결국 작년에 해당 도전 과제는 끝내지 못하였다. 하지만 2022년에 다시 시작한다. 물론 이직을 한 상태이기 때문에 예전처럼 매일 문제를 풀고 하긴 힘들것으로 사료된다.😅 현재 22문제정도를 풀어 놓은 상태이기 때문에 올해동안 3가지 파트에 대한 문제, 총 합 150를 풀어보자. 목표 재설정 및 재도전!! 도전은 끝나지 않는다!! 🚀
 
+✅ Updated 2021.11.25
 운이 좋았는지 어쨌는지 위에서 언급한 코테에서 합격하였다. 처음으로 코테에서 합격해보는 것이라 기분은 좋지만, 코테에서 내가 원하던 목표를 달성하기 위해선 아직 갈 길이 멀다.
 ㅎㅇㅌ 🔥
 
 </details>
-
-<br />
 
 [코테 준비를 위한 참고 영상 링크](https://www.youtube.com/watch?v=ukkLCl9yBvE&t=808s)
 
 ## Problems
 
 > `LC` → LEET Code | `PG` → Programmers | `BJ` → BaekJoon
+
+> 📌 : Not Completed, Retry Required
 
 | Index |   Date   | Category |                                                    Problem                                                    |          Solution           |   Check   |
 | :---: | :------: | :------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------: | :-------: |
@@ -58,3 +60,5 @@
 |  18   | 21.12.08 |  Greedy  |                            [BJ : 설탕 배달 ](https://www.acmicpc.net/problem/2839)                            | [Code](/150pb/greedy/18.js) |    ⭐️    |
 |  19   | 21.12.09 |  Greedy  |                            [BJ : 거스름돈 ](https://www.acmicpc.net/problem/5585)                             | [Code](/150pb/greedy/19.js) |           |
 |  20   | 21.12.09 |  Greedy  |                              [BJ : 로프 ](https://www.acmicpc.net/problem/2217)                               | [Code](/150pb/greedy/20.js) |  ⭐️⭐️   |
+|  21   | 21.12.10 |  Greedy  |                            [BJ : 단어 수학 ](https://www.acmicpc.net/problem/1339)                            | [Code](/150pb/greedy/21.js) |   ⭐️🥳   |
+|  22   | 21.12.11 |  Greedy  |                         📌 [BJ : 카드 정렬하기](https://www.acmicpc.net/problem/1715)                         | [Code](/150pb/greedy/22.js) | ⭐️⭐️⭐️ |
