@@ -197,7 +197,7 @@
 |  01   |                 선택 정렬                  | [Code](algorithm_pb/section07/s07_01.js) |
 |  02   |                 버블 정렬                  | [Code](algorithm_pb/section07/s07_02.js) |
 |  03   |         Special Sort(구글 인터뷰)          | [Code](algorithm_pb/section07/s07_03.js) |
-|  04   |                 삽입 정렬                  | [Code](algorithm_pb/section07/s07_04.js) |
+|  04   |               ⭐️ 삽입 정렬                | [Code](algorithm_pb/section07/s07_04.js) |
 |  05   | Least Recently Used(카카오 캐시 문제 변형) | [Code](algorithm_pb/section07/s07_05.js) |
 |  06   |              장난꾸러기 현수               | [Code](algorithm_pb/section07/s07_06.js) |
 |  07   |                 좌표 정렬                  | [Code](algorithm_pb/section07/s07_07.js) |
