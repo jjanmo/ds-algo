@@ -3,15 +3,32 @@
 */
 // DFS
 function solution(n) {
-  const subset = [false]; // 해당 인덱스가 부분집합에 포함되면 true 아니면 false
+  const checked = []; // 인덱스 0에는 아무것도 존재하지 않음
 
-  if (n === n + 1) {
-    return;
-  } else {
-  }
+  const dfs = (v) => {
+    if (v === n + 1) {
+      const result = log(checked);
+      console.log(result);
+    } else {
+      checked[v] = 1;
+      dfs(v + 1);
+      checked[v] = 0;
+      dfs(v + 1);
+    }
+  };
+
+  dfs(1);
 }
 
-console.log(solution(3));
+function log(arr) {
+  return arr.reduce((acc, cur, index) => {
+    if (index === 0) return acc;
+    else if (cur === 1) return acc + ' ' + index;
+    else if (cur === 0) return acc;
+  }, '');
+}
+
+solution(3);
 
 /*
 OUPUT

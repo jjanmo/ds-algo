@@ -7,6 +7,7 @@ HINT
 */
 
 // 전위 순회
+// -> 노드 순서 : 부모 왼쪽 오른쪽
 function preorder(n) {
   if (n > 7) return '';
 
@@ -14,6 +15,7 @@ function preorder(n) {
 }
 
 // 중위 순회
+// 노드 순서 : 왼쪽 부모 오른쪽
 function inorder(n) {
   if (n > 7) return '';
 
@@ -21,6 +23,7 @@ function inorder(n) {
 }
 
 // 후위 순회
+// 노드 순서 : 왼쪽 오른쪽 부모
 function postorder(n) {
   if (n > 7) return '';
 
