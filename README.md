@@ -215,6 +215,7 @@
 |  04   |        부분집합 구하기        | [Code](algorithm_pb/section08/s08_04.js) | [✔️](algorithm_pb/section08/s08_04.md) |
 |  05   |      합이 같은 부분집합       | [Code](algorithm_pb/section08/s08_05.js) |                                        |
 |  06   |          바둑이 승차          | [Code](algorithm_pb/section08/s08_06.js) |                                        |
+|  07   |        최대점수 구하기        | [Code](algorithm_pb/section08/s08_07.js) |                                        |
 
 <br />
 
