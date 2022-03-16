@@ -212,10 +212,11 @@
 |  01   |           재귀함수            | [Code](algorithm_pb/section08/s08_01.js) |                                        |
 |  02   | 재귀함수를 이용한 이진수 출력 | [Code](algorithm_pb/section08/s08_02.js) |                                        |
 |  03   |         이진트리 순회         | [Code](algorithm_pb/section08/s08_03.js) | [✔️](algorithm_pb/section08/s08_03.md) |
-|  04   |        부분집합 구하기        | [Code](algorithm_pb/section08/s08_04.js) | [✔️](algorithm_pb/section08/s08_04.md) |
+|  04   |      ⭐️부분집합 구하기       | [Code](algorithm_pb/section08/s08_04.js) | [✔️](algorithm_pb/section08/s08_04.md) |
 |  05   |      합이 같은 부분집합       | [Code](algorithm_pb/section08/s08_05.js) |                                        |
 |  06   |          바둑이 승차          | [Code](algorithm_pb/section08/s08_06.js) |                                        |
 |  07   |        최대점수 구하기        | [Code](algorithm_pb/section08/s08_07.js) |                                        |
+|  08   |      ⭐️중복순열 구하기       | [Code](algorithm_pb/section08/s08_08.js) | [✔️](algorithm_pb/section08/s08_08.md) |
 
 <br />
 
