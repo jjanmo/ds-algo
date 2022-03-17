@@ -217,6 +217,7 @@
 |  06   |          바둑이 승차          | [Code](algorithm_pb/section08/s08_06.js) |                                        |
 |  07   |        최대점수 구하기        | [Code](algorithm_pb/section08/s08_07.js) |                                        |
 |  08   |      ⭐️중복순열 구하기       | [Code](algorithm_pb/section08/s08_08.js) | [✔️](algorithm_pb/section08/s08_08.md) |
+|  09   |           동전교환            | [Code](algorithm_pb/section08/s08_09.js) |                                        |
 
 <br />
 
