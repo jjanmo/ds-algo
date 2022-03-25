@@ -1,8 +1,11 @@
-function solution(string) {
+// 위 문제의 전제조건
+// → 항상 괄호는 () 순서대로 짝을 이룬다
+
+function solution1(string) {
   const stack = [];
   const sArray = string.split('');
   let result = '';
-  sArray.forEach(char => {
+  sArray.forEach((char) => {
     if (char === '(') {
       stack.push(char);
     } else if (char === ')') {
@@ -17,7 +20,5 @@ function solution(string) {
   return result;
 }
 
-console.log(solution('(A(BC)D)EF(G(H)(IJ)K)LM(N)'));
-console.log(solution('((H)e(l)lo)Wo(r(l)d'));
-
-// Q. 괄호의 순서는 항상 ( → ) 인가? 만약에  ) ( 이런 경우는 존재하지 않는가?
+console.log(solution1('(A(BC)D)EF(G(H)(IJ)K)LM(N)'));
+console.log(solution1('((H)e(l)lo)Wo(r(l)d'));
