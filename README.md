@@ -183,10 +183,12 @@
 
 > 자료구조(스택, 큐)
 
-| Index |   Problem    |               My Solution                |
-| :---: | :----------: | :--------------------------------------: |
-|  01   | 올바른 괄호  | [Code](algorithm_pb/section05/s06_01.js) |
-|  02   | 괄호문자제거 | [Code](algorithm_pb/section05/s06_02.js) |
+| Index |     Problem     |               My Solution                |
+| :---: | :-------------: | :--------------------------------------: |
+|  01   |   올바른 괄호   | [Code](algorithm_pb/section05/s06_01.js) |
+|  02   |  괄호문자제거   | [Code](algorithm_pb/section05/s06_02.js) |
+|  03   | 크레인 인형뽑기 |                                          |
+|  04   |   후위식 연산   | [Code](algorithm_pb/section05/s06_04.js) |
 
 ### Section07
 
