@@ -189,6 +189,8 @@
 |  02   |  괄호문자제거   | [Code](algorithm_pb/section05/s06_02.js) |
 |  03   | 크레인 인형뽑기 |                                          |
 |  04   |   후위식 연산   | [Code](algorithm_pb/section05/s06_04.js) |
+|  05   |    쇠막대기     | [Code](algorithm_pb/section05/s06_05.js) |
+|  06   |   공주 구하기   | [Code](algorithm_pb/section05/s06_06.js) |
 
 ### Section07
 
