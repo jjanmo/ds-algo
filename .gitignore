@@ -2,4 +2,5 @@
 /.README.md
 .vscode
 /*/**/.hold
-sref.md
+_ref.md
+.DS_Store
