@@ -7,9 +7,9 @@
     [4, 2, 4, 4, 2],
     [3, 5, 1, 3, 1],
   ],
-→ 이거 자체가 board의 모습임!!
+→ 이거 자체가 board의 모습임!! ✅
 
-내가 이해한 보드
+내가 이해한 보드 ❌
 board[0] → 보드 가장 왼쪽의 세로열을 말한다고 생각함! 
 */
 
@@ -19,16 +19,15 @@ function solution(board, moves) {
   let count = 0;
 
   moves.forEach((move) => {
-    const current = board[move - 1];
-    for (let i = LENGTH - 1; i >= 0; i--) {
-      if (current[i] !== 0) {
-        if (isSame(current[i], result)) {
+    for (let i = 0; i < LENGTH; i++) {
+      if (board[i][move - 1] !== 0) {
+        if (isSame(board[i][move - 1], result)) {
           count += 2;
           result.pop();
         } else {
-          result.push(current[i]);
+          result.push(board[i][move - 1]);
         }
-        current[i] = 0;
+        board[i][move - 1] = 0;
         break;
       }
     }
