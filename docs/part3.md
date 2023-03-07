@@ -83,10 +83,11 @@
 | :---: | :-------------: | :----------------------------------: |
 |  01   |   올바른 괄호   | [Code](../part3/section06/s06_01.js) |
 |  02   |  괄호문자제거   | [Code](../part3/section06/s06_02.js) |
-|  03   | 크레인 인형뽑기 |                                      |
+|  03   | 크레인 인형뽑기 | [Code](../part3/section06/s06_03.js) |
 |  04   |   후위식 연산   | [Code](../part3/section06/s06_04.js) |
 |  05   |    쇠막대기     | [Code](../part3/section06/s06_05.js) |
 |  06   |   공주 구하기   | [Code](../part3/section06/s06_06.js) |
+|  06   | 교육 과정 설계  | [Code](../part3/section06/s06_07.js) |
 
 # Section 07
 
