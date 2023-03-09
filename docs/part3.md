@@ -87,9 +87,26 @@
 |  04   |   후위식 연산   | [Code](../part3/section06/s06_04.js) |
 |  05   |    쇠막대기     | [Code](../part3/section06/s06_05.js) |
 |  06   |   공주 구하기   | [Code](../part3/section06/s06_06.js) |
-|  06   | 교육 과정 설계  | [Code](../part3/section06/s06_07.js) |
+|  07   | 교육 과정 설계  | [Code](../part3/section06/s06_07.js) |
 
 # Section 07
+
+> 정렬과 그리디, 결정알고리즘(이분검색)
+
+| Index |          Problem           |             My Solution              |
+| :---: | :------------------------: | :----------------------------------: |
+|  01   |          선택정렬          | [Code](../part3/section07/s07_01.js) |
+|  02   |          버블정렬          | [Code](../part3/section07/s07_02.js) |
+|  03   |        Special Sort        | [Code](../part3/section07/s07_03.js) |
+|  04   |          삽입정렬          | [Code](../part3/section07/s07_04.js) |
+|  05   | LRU(카카오 캐시 변형 문제) | [Code](../part3/section07/s07_05.js) |
+|  06   |      장난꾸러기 현수       | [Code](../part3/section07/s07_06.js) |
+|  07   |         좌표 정렬          | [Code](../part3/section07/s07_07.js) |
+|  08   |        회의실 배정         | [Code](../part3/section07/s07_08.js) |
+|  09   |         결혼식 ⭐️         | [Code](../part3/section07/s07_09.js) |
+|  10   |          이분검색          | [Code](../part3/section07/s07_10.js) |
+|  11   |         뮤직비디오         | [Code](../part3/section07/s07_11.js) |
+|  12   |       마구간 정하기        | [Code](../part3/section07/s07_12.js) |
 
 # Section 08
 
