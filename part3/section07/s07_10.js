@@ -14,7 +14,7 @@ function solution(n, target, array) {
     }
   }
 
-  return left;
+  return left + 1;
 }
 console.log(solution(8, 32, [23, 87, 65, 12, 57, 32, 99, 81])); // 3
 
@@ -22,16 +22,14 @@ console.log(solution(8, 32, [23, 87, 65, 12, 57, 32, 99, 81])); // 3
 function solution2(find, array) {
   const sorted = array.sort((a, b) => a - b);
   let start = 0;
-  let end = array.length;
+  let end = array.length - 1;
 
   while (start <= end) {
     const mid = Math.floor((start + end) / 2);
     if (find === sorted[mid]) return mid + 1;
-    else if (find < sorted[mid]) end = mid;
-    else start = mid;
+    else if (find < sorted[mid]) end = mid - 1;
+    else start = mid + 1;
   }
-
-  return -1;
 }
 
 console.log(solution2(32, [23, 87, 65, 12, 57, 32, 99, 81]));
