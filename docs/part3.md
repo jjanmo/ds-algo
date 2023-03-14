@@ -56,24 +56,24 @@
 | :---: | :--------------: | :----------------------------------: |
 |  01   |   자릿수의 합    | [Code](../part3/section04/s04_01.js) |
 |  02   |   뒤집은 소수    | [Code](../part3/section04/s04_02.js) |
-|  03   |  ⭐️⭐️ 멘토링   | [Code](../part3/section04/s04_03.js) |
-|  04   | ⭐️⭐️ 졸업 선물 | [Code](../part3/section04/s04_04.js) |
+|  03   |  멘토링 ⭐️⭐️   | [Code](../part3/section04/s04_03.js) |
+|  04   | 졸업 선물 ⭐️⭐️ | [Code](../part3/section04/s04_04.js) |
 |  05   |   K번째 큰 수    | [Code](../part3/section04/s04_05.js) |
 
 # Section 05
 
 > 효율성(투포인터 알고리즘, 슬라이딩윈도우, 해쉬)
 
-| Index |      Problem       |             My Solution              |
-| :---: | :----------------: | :----------------------------------: |
-|  01   |   두 배열 합치기   | [Code](../part3/section05/s05_01.js) |
-|  02   |  공통 원소 구하기  | [Code](../part3/section05/s05_02.js) |
-|  03   | ⭐️연속 부분 수열1 | [Code](../part3/section05/s05_03.js) |
-|  04   | ⭐️연속 부분 수열2 | [Code](../part3/section05/s05_04.js) |
-|  05   |     최대 매출      | [Code](../part3/section05/s05_05.js) |
-|  06   |     학생 회장      | [Code](../part3/section05/s05_06.js) |
-|  07   |      아나그램      | [Code](../part3/section05/s05_07.js) |
-|  08   | 모든 아나그램 찾기 | [Code](../part3/section05/s05_08.js) |
+| Index |       Problem       |             My Solution              |
+| :---: | :-----------------: | :----------------------------------: |
+|  01   |   두 배열 합치기    | [Code](../part3/section05/s05_01.js) |
+|  02   |  공통 원소 구하기   | [Code](../part3/section05/s05_02.js) |
+|  03   | 연속 부분 수열1 ⭐️ | [Code](../part3/section05/s05_03.js) |
+|  04   | 연속 부분 수열2 ⭐️ | [Code](../part3/section05/s05_04.js) |
+|  05   |      최대 매출      | [Code](../part3/section05/s05_05.js) |
+|  06   |      학생 회장      | [Code](../part3/section05/s05_06.js) |
+|  07   |      아나그램       | [Code](../part3/section05/s05_07.js) |
+|  08   | 모든 아나그램 찾기  | [Code](../part3/section05/s05_08.js) |
 
 # Section 06
 
@@ -105,8 +105,8 @@
 |  08   |        회의실 배정         | [Code](../part3/section07/s07_08.js) |
 |  09   |         결혼식 ⭐️         | [Code](../part3/section07/s07_09.js) |
 |  10   |          이분검색          | [Code](../part3/section07/s07_10.js) |
-|  11   |         뮤직비디오         | [Code](../part3/section07/s07_11.js) |
-|  12   |       마구간 정하기        | [Code](../part3/section07/s07_12.js) |
+|  11   |       뮤직비디오 ⭐️       | [Code](../part3/section07/s07_11.js) |
+|  12   |    마구간 정하기 ⭐️⭐️    | [Code](../part3/section07/s07_12.js) |
 
 # Section 08
 
@@ -117,9 +117,9 @@
 |  01   |           재귀함수            | [Code](../part3/section08/s08_01.js) |                                    |
 |  02   | 재귀함수를 이용한 이진수 출력 | [Code](../part3/section08/s08_02.js) |                                    |
 |  03   |         이진트리 순회         | [Code](../part3/section08/s08_03.js) | [✔️](../part3/section08/s08_03.md) |
-|  04   |      ⭐️부분집합 구하기       | [Code](../part3/section08/s08_04.js) | [✔️](../part3/section08/s08_04.md) |
+|  04   |      부분집합 구하기 ⭐️      | [Code](../part3/section08/s08_04.js) | [✔️](../part3/section08/s08_04.md) |
 |  05   |      합이 같은 부분집합       | [Code](../part3/section08/s08_05.js) |                                    |
 |  06   |          바둑이 승차          | [Code](../part3/section08/s08_06.js) |                                    |
 |  07   |        최대점수 구하기        | [Code](../part3/section08/s08_07.js) |                                    |
-|  08   |      ⭐️중복순열 구하기       | [Code](../part3/section08/s08_08.js) | [✔️](../part3/section08/s08_08.md) |
+|  08   |      중복순열 구하기 ⭐️      | [Code](../part3/section08/s08_08.js) | [✔️](../part3/section08/s08_08.md) |
 |  09   |           동전교환            | [Code](../part3/section08/s08_09.js) |                                    |
