@@ -12,13 +12,16 @@ function solution(n, m, array) {
       result.push([...tmp]);
     }
 
-    for (let i = 0; i < array.length; i++) {
+    for (let i = 0; i < n; i++) {
       if (visited[i]) continue;
 
       visited[i] = true;
       tmp[level] = array[i];
       dfs(level + 1);
-      visited[i] = false; //?
+
+      // Q. 아래 두 코드의 의미는??
+      visited[i] = false;
+      tmp.pop();
     }
   };
 
