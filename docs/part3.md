@@ -125,4 +125,4 @@
 |  09   |           동전교환            | [Code](../part3/section08/s08_09.js) |                                    |
 |  10   |          순열구하기           | [Code](../part3/section08/s08_10.js) |                                    |
 |  11   |           팩토리얼            | [Code](../part3/section08/s08_11.js) |                                    |
-|  12   |            조합수             | [Code](../part3/section08/s08_12.js) | [✔️](../part3/section08/s08_12.md) |
+|  12   |     조합수(메모이제이션)      | [Code](../part3/section08/s08_12.js) | [✔️](../part3/section08/s08_12.md) |
