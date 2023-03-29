@@ -5,38 +5,58 @@
  * 노드 탐색(find)
  *
  * Single Linked List
+ *
+ * https://codedragon.tistory.com/6113
+ * 자바의 내장된 연결리스트의 메소드 참고
  */
 
 class Node {
-  constructor(val, next) {
+  constructor(val) {
     this.val = val;
     this.next = null;
   }
 }
 
-function printNodes(node) {
-  let curNode = node;
-
-  while (curNode) {
-    print(curNode.val);
-    curNode = curNode.next;
-  }
-}
-
 class LinkedList {
-  constructor() {
-    this.head = null;
+  constructor(val) {
+    this.head = new Node(val);
   }
 
-  traverse() {}
+  /**
+   * @description 연결리스트 끝에 해당 노드를 추가
+   * @param {*} val 노드의 데이터
+   */
+  add(val) {
+    const node = new Node(val);
+    let current = this.head;
 
-  addAtHead() {}
+    while (current.next) {
+      current = current.next;
+    }
+    current.next = node;
+  }
 
-  addAtBack() {}
+  // insert()
+  // remove()
+  // find()
+  // findPrevious()
+  // size()
 
-  addAtAfter() {}
+  /**
+   * @description 연결리스트 순회(모든 노드에 접근, 여기서는 로그를 찍는다)
+   */
+  traverse() {
+    let current = this.head;
 
-  find() {}
-
-  delete() {}
+    while (current) {
+      console.log(current.val);
+      current = current.next;
+    }
+  }
 }
+
+const linkedList = new LinkedList(10);
+linkedList.add(20);
+linkedList.add(30);
+
+linkedList.traverse();

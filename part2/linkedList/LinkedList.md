@@ -31,3 +31,4 @@
 
 - [How to Implement a Linked List in JavaScript](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
 - [Types of Linked List](https://www.geeksforgeeks.org/types-of-linked-list/)
+- [연결리스트 with JavaScript](https://overcome-the-limits.tistory.com/16)
