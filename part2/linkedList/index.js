@@ -11,23 +11,23 @@
  */
 
 class Node {
-  constructor(val) {
-    this.val = val;
+  constructor(value) {
+    this.value = value;
     this.next = null;
   }
 }
 
 class LinkedList {
-  constructor(val) {
-    this.head = new Node(val);
+  constructor(value) {
+    this.head = new Node(value);
   }
 
   /**
    * @description 연결리스트 끝에 해당 노드를 추가
-   * @param {*} val 노드의 데이터
+   * @param {*} value 노드의 데이터
    */
-  add(val) {
-    const node = new Node(val);
+  add(value) {
+    const node = new Node(value);
     let current = this.head;
 
     while (current.next) {
@@ -36,9 +36,33 @@ class LinkedList {
     current.next = node;
   }
 
-  // insert()
+  /**
+   * @description 지정된 인덱스에 노드를 추가
+   * @param {number} index
+   * @param {*} value
+   */
+  insert(index, value) {
+    const node = new Node(value);
+    let current = this.head;
+    let _index = 0;
+
+    while (current) {
+      if (index - 1 === _index) {
+        const tmp = current.next;
+        current.next = node;
+        node.next = tmp;
+        break;
+      }
+
+      current = current.next;
+      _index++;
+    }
+  }
+
+  // findByIndex(index) // 인덱스로 노드 찾기
+  // findByvalue(value) // 값으로 노드 찾기
   // remove()
-  // find()
+
   // findPrevious()
   // size()
 
@@ -49,7 +73,7 @@ class LinkedList {
     let current = this.head;
 
     while (current) {
-      console.log(current.val);
+      console.log(current.value);
       current = current.next;
     }
   }
@@ -58,5 +82,8 @@ class LinkedList {
 const linkedList = new LinkedList(10);
 linkedList.add(20);
 linkedList.add(30);
+linkedList.add(40);
+linkedList.add(50);
+linkedList.insert(2, 25);
 
 linkedList.traverse();
