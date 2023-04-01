@@ -59,8 +59,43 @@ class LinkedList {
     }
   }
 
-  // findByIndex(index) // 인덱스로 노드 찾기
-  // findByvalue(value) // 값으로 노드 찾기
+  /**
+   * @description 주어진 인덱스에 해당하는 노드 찾기
+   * @param {number} index
+   * @returns 지정된 인덱스의 노드 or null
+   */
+
+  findByIndex(index) {
+    let current = this.head;
+    let _index = 0;
+
+    while (current) {
+      if (index === _index) return current;
+
+      current = current.next;
+      _index++;
+    }
+
+    return null;
+  }
+
+  /**
+   * @description 주어진 데이터(value)를 갖는 노드 찾기
+   * @param {*} value
+   * @returns 주어진 데이터를 가진 노드 or null
+   */
+  findByvalue(value) {
+    let current = this.head;
+
+    while (current) {
+      if (current.value === value) return current;
+
+      current = current.next;
+    }
+
+    return null;
+  }
+
   // remove()
 
   // findPrevious()
@@ -87,3 +122,13 @@ linkedList.add(50);
 linkedList.insert(2, 25);
 
 linkedList.traverse();
+
+const target1 = linkedList.findByIndex(2);
+console.log(target1);
+const target2 = linkedList.findByIndex(9);
+console.log(target2);
+
+const target3 = linkedList.findByvalue(20);
+console.log(target3);
+const target4 = linkedList.findByvalue(55);
+console.log(target4);
