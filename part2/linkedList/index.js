@@ -48,9 +48,8 @@ class LinkedList {
 
     while (current) {
       if (index - 1 === _index) {
-        const tmp = current.next;
+        node.next = current.next;
         current.next = node;
-        node.next = tmp;
         break;
       }
 
