@@ -57,3 +57,4 @@
 | Index |  Start   | Updated |                                     Problem                                     | Status |     Solution      |
 | :---: | :------: | :-----: | :-----------------------------------------------------------------------------: | :----: | :---------------: |
 |   1   | 23.05.31 |    -    | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) |  Done  | [✔️](/pg200/1.md) |
+|   2   | 23.05.31 |    -    |     [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)     |  Done  |         -         |
