@@ -1,4 +1,15 @@
-# Array
+# Part2
+
+<details>
+<summary>참고자료</summary>
+
+- 📺 [코드없는 프로그래밍 유튜브 채널](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg)
+
+- 📺 [그림으로 쉽게 배우는 자료구조와 알고리즘 (기본편/심화편) 강의](https://www.inflearn.com/course/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%AC%ED%99%94)
+
+</details>
+
+## Array
 
 | Index |                                            Problem                                            |           Code           |
 | :---: | :-------------------------------------------------------------------------------------------: | :----------------------: |
@@ -9,7 +20,7 @@
 |  05   | [LEET : minimum-size-subarray-sum ](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✔](../part2/array/5.js) |
 |  06   |        [LEET : merge-sorted-array ](https://leetcode.com/problems/merge-sorted-array/)        | [✔](../part2/array/6.js) |
 
-# Stack
+## Stack
 
 | Index |                                   Problem                                    |           Code           |
 | :---: | :--------------------------------------------------------------------------: | :----------------------: |
@@ -17,11 +28,9 @@
 
 # [Linked List](../part2/linkedList/index.js)
 
-| Index | Problem |           Code            |
-| :---: | :-----: | :-----------------------: |
-|  01   |  []()   | [✔](../part2/linkedList/) |
+| Index | Problem | Code |
 
-# Graph
+## Graph
 
 | Index |                                   Problem                                    |           Code           |
 | :---: | :--------------------------------------------------------------------------: | :----------------------: |
