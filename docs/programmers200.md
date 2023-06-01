@@ -54,7 +54,10 @@
 > Status : `Doing | Done` 을 통해 문제를 풀어나가는 상태를 기록 <br />
 > Solution : `깨달음`이 있거나 `기록하고 싶은 문제`의 경우 기록할 예정 <br />
 
-| Index |  Start   | Updated |                                     Problem                                     | Status |     Solution      |
-| :---: | :------: | :-----: | :-----------------------------------------------------------------------------: | :----: | :---------------: |
-|   1   | 23.05.31 |    -    | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) |  Done  | [✔️](/pg200/1.md) |
-|   2   | 23.05.31 |    -    |     [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)     |  Done  |         -         |
+| Index |  Start   | Updated |                                          Problem                                           | Status |     Solution      |
+| :---: | :------: | :-----: | :----------------------------------------------------------------------------------------: | :----: | :---------------: |
+|   1   | 23.05.31 |    -    |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)       |  Done  | [✔️](/pg200/1.md) |
+|   2   | 23.05.31 |    -    |          [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)           |  Done  |         -         |
+|   3   | 23.06.01 |    -    |      [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |  Done  |         -         |
+|   4   | 23.06.01 |    -    | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  Done  |         -         |
+|   4   | 23.06.01 |    -    |        [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)         |  Done  | [✔️](/pg200/4.md) |
