@@ -60,4 +60,7 @@
 |   2   | 23.05.31 |    -    |          [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)           |  Done  |         -         |
 |   3   | 23.06.01 |    -    |      [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |  Done  |         -         |
 |   4   | 23.06.01 |    -    | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  Done  |         -         |
-|   4   | 23.06.01 |    -    |        [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)         |  Done  | [✔️](/pg200/4.md) |
+|   5   | 23.06.01 |    -    |        [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)         |  Done  | [✔️](/pg200/4.md) |
+|   6   | 23.06.02 |    -    |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)    |  Done  |         -         |
+|   7   | 23.06.02 |    -    |       [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)        |  Done  | [✔️](/pg200/7.md) |
+|   8   | 23.06.02 |    -    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  |  Done  | [✔️](/pg200/8.md) |
