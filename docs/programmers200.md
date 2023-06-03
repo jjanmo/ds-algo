@@ -64,3 +64,6 @@
 |   6   | 23.06.02 |    -    |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)    |  Done  |         -         |
 |   7   | 23.06.02 |    -    |       [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)        |  Done  | [✔️](/pg200/7.md) |
 |   8   | 23.06.02 |    -    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  |  Done  | [✔️](/pg200/8.md) |
+|   8   | 23.06.03 |    -    |       [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)        |  Done  |         -         |
+|   9   | 23.06.03 |    -    |      [명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477)      |  Done  |         -         |
+|  10   | 23.06.03 |    -    |       [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)        |  Done  |         -         |
