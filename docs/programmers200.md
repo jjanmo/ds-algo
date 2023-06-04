@@ -70,3 +70,6 @@
 |  11   | 23.06.04 |    -    |       [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)        |  Done  | [✔️](/pg200/11.md) |
 |  12   | 23.06.04 |    -    |        [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)        |  Done  |         -          |
 |  13   | 23.06.04 |    -    |        [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)        |  Done  | [✔️](/pg200/13.md) |
+|  14   | 23.06.05 |    -    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  Done  | [✔️](/pg200/14.md) |
+|  15   | 23.06.05 |    -    |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  Done  |         -          |
+|  16   | 23.06.05 |    -    |   [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)    |  Done  |         -          |
