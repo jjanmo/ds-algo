@@ -73,3 +73,5 @@
 |  14   | 23.06.05 |    -    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  Done  | [✔️](/pg200/14.md) |
 |  15   | 23.06.05 |    -    |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  Done  |         -          |
 |  16   | 23.06.05 |    -    |   [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)    |  Done  |         -          |
+|  17   | 23.06.06 |    -    |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)       |  Done  |         -          |
+|  18   | 23.06.06 |    -    |       [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       |  Done  | [✔️](/pg200/18.md) |
