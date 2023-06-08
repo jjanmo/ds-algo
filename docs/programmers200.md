@@ -58,28 +58,32 @@
 > Updated : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 <br />
 > Status : `Doing | Done` 을 통해 문제를 풀어나가는 상태를 기록 <br />
 > Solution : `깨달음`이 있거나 `기록하고 싶은 문제`의 경우 기록할 예정 <br />
+> Rank : 6월 8일부터 기록함. 프로그래머스에서 나오는 랭킹 기록. 문제를 풀 때마다 조금씩 상승하는 것 같음. 처음엔 20000등 밖이였는데...
 
-| Index |  Start   | Updated |                                          Problem                                           | Status |      Solution      |
-| :---: | :------: | :-----: | :----------------------------------------------------------------------------------------: | :----: | :----------------: |
-|   1   | 23.05.31 |    -    |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)       |  Done  | [✔️](/pg200/1.md)  |
-|   2   | 23.05.31 |    -    |          [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)           |  Done  |         -          |
-|   3   | 23.06.01 |    -    |      [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |  Done  |         -          |
-|   4   | 23.06.01 |    -    | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  Done  |         -          |
-|   5   | 23.06.01 |    -    |        [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)         |  Done  | [✔️](/pg200/4.md)  |
-|   6   | 23.06.02 |    -    |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)    |  Done  |         -          |
-|   7   | 23.06.02 |    -    |       [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)        |  Done  | [✔️](/pg200/7.md)  |
-|   8   | 23.06.02 |    -    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  |  Done  | [✔️](/pg200/8.md)  |
-|   8   | 23.06.03 |    -    |       [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)        |  Done  |         -          |
-|   9   | 23.06.03 |    -    |      [명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477)      |  Done  |         -          |
-|  10   | 23.06.03 |    -    |       [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)        |  Done  |         -          |
-|  11   | 23.06.04 |    -    |       [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)        |  Done  | [✔️](/pg200/11.md) |
-|  12   | 23.06.04 |    -    |        [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)        |  Done  |         -          |
-|  13   | 23.06.04 |    -    |        [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)        |  Done  | [✔️](/pg200/13.md) |
-|  14   | 23.06.05 |    -    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  Done  | [✔️](/pg200/14.md) |
-|  15   | 23.06.05 |    -    |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  Done  |         -          |
-|  16   | 23.06.05 |    -    |   [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)    |  Done  |         -          |
-|  17   | 23.06.06 |    -    |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)       |  Done  |         -          |
-|  18   | 23.06.06 |    -    |       [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       |  Done  | [✔️](/pg200/18.md) |
-|  19   | 23.06.07 |    -    |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)     |  Done  |         -          |
-|  20   | 23.06.07 |    -    |      [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      |  Done  | [✔️](/pg200/20.md) |
-|  21   | 23.06.07 |    -    |          [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)           |  Done  | [✔️](/pg200/21.md) |
+| Index |  Start   | Updated |                                          Problem                                           | Status |      Solution      | Rank  |
+| :---: | :------: | :-----: | :----------------------------------------------------------------------------------------: | :----: | :----------------: | ----- |
+|   1   | 23.05.31 |    -    |      [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)       |  Done  | [✔️](/pg200/1.md)  |       |
+|   2   | 23.05.31 |    -    |          [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)           |  Done  |         -          |       |
+|   3   | 23.06.01 |    -    |      [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)       |  Done  |         -          |       |
+|   4   | 23.06.01 |    -    | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) |  Done  |         -          |       |
+|   5   | 23.06.01 |    -    |        [비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)         |  Done  | [✔️](/pg200/4.md)  |       |
+|   6   | 23.06.02 |    -    |    [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)    |  Done  |         -          |       |
+|   7   | 23.06.02 |    -    |       [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)        |  Done  | [✔️](/pg200/7.md)  |       |
+|   8   | 23.06.02 |    -    | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)  |  Done  | [✔️](/pg200/8.md)  |       |
+|   8   | 23.06.03 |    -    |       [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)        |  Done  |         -          |       |
+|   9   | 23.06.03 |    -    |      [명예의 전당1](https://school.programmers.co.kr/learn/courses/30/lessons/138477)      |  Done  |         -          |       |
+|  10   | 23.06.03 |    -    |       [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)        |  Done  |         -          |       |
+|  11   | 23.06.04 |    -    |       [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)        |  Done  | [✔️](/pg200/11.md) |       |
+|  12   | 23.06.04 |    -    |        [다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)        |  Done  |         -          |       |
+|  13   | 23.06.04 |    -    |        [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)        |  Done  | [✔️](/pg200/13.md) |       |
+|  14   | 23.06.05 |    -    | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  Done  | [✔️](/pg200/14.md) |       |
+|  15   | 23.06.05 |    -    |      [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)      |  Done  |         -          |       |
+|  16   | 23.06.05 |    -    |   [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)    |  Done  |         -          |       |
+|  17   | 23.06.06 |    -    |      [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)       |  Done  |         -          |       |
+|  18   | 23.06.06 |    -    |       [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)       |  Done  | [✔️](/pg200/18.md) |       |
+|  19   | 23.06.07 |    -    |     [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)     |  Done  |         -          |       |
+|  20   | 23.06.07 |    -    |      [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)      |  Done  | [✔️](/pg200/20.md) |       |
+|  21   | 23.06.07 |    -    |          [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)           |  Done  | [✔️](/pg200/21.md) |       |
+|  22   | 23.06.08 |    -    |    [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     |  Done  | [✔️](/pg200/22.md) |       |
+|  23   | 23.06.08 |    -    |    [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)     |  Done  | [✔️](/pg200/23.md) |       |
+|  24   | 23.06.08 |    -    |       [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)       |  Done  | [✔️](/pg200/24.md) | 15204 |
