@@ -87,3 +87,6 @@
 |  22   | 23.06.08 |    -    |    [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     |  Done  | [✔️](/pg200/22.md) |       |
 |  23   | 23.06.08 |    -    |    [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)     |  Done  | [✔️](/pg200/23.md) |       |
 |  24   | 23.06.08 |    -    |       [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)       |  Done  | [✔️](/pg200/24.md) | 15204 |
+|  25   | 23.06.09 |    -    |        [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)        |  Done  | [✔️](/pg200/25.md) |       |
+|  26   | 23.06.09 |    -    |       [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)        |  Done  | [✔️](/pg200/26.md) |       |
+|  27   | 23.06.09 |    -    |      [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)      |  Done  |         -          | 13142 |
