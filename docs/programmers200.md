@@ -92,3 +92,5 @@
 |  27   | 23.06.09 |    -    |       [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)       |  Done  |         -          | 13142 |
 |  28   | 23.06.10 |    -    | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) |  Done  | [✔️](/pg200/28.md) |       |
 |  29   | 23.06.10 |    -    |     [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)      |  Done  | [✔️](/pg200/29.md) | 12658 |
+|  30   | 23.06.11 |    -    |        [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)         |  Done  | [✔️](/pg200/30.md) |       |
+|  31   | 23.06.11 |    -    |      [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      |  Done  | [✔️](/pg200/31.md) | 11518 |
