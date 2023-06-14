@@ -100,3 +100,5 @@
 |  35   | 23.06.12 | 23.06.13 |      [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)       |  Done  | [✔️](/pg200/35.md) |       |
 |  36   | 23.06.13 |    -     |        [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)         |  Done  |         -          |       |
 |  37   | 23.06.13 |    -     |    [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)    |  Done  |         -          | 9445  |
+|  38   | 23.06.14 |    -     |           [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            |  Done  |         -          |       |
+|  39   | 23.06.14 |    -     |        [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        |  Done  | [✔️](/pg200/39.md) |       |
