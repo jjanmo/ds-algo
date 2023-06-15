@@ -102,3 +102,5 @@
 |  37   | 23.06.13 |    -     |    [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)    |  Done  |         -          | 9445  |
 |  38   | 23.06.14 |    -     |           [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)            |  Done  |         -          |       |
 |  39   | 23.06.14 |    -     |        [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)        |  Done  | [✔️](/pg200/39.md) |       |
+|  40   | 23.06.15 |    -     |        [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)         |  Done  |                    |       |
+|  41   | 23.06.15 |    -     |         [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          |  Done  | [✔️](/pg200/41.md) | 8709  |
