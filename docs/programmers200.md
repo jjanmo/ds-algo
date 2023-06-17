@@ -105,3 +105,5 @@
 |  40   | 23.06.15 |    -     |        [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)         |  Done  |         -          |       |
 |  41   | 23.06.15 |    -     |         [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)          |  Done  | [✔️](/pg200/41.md) | 8709  |
 |  42   | 23.06.16 |    -     |   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)   |  Done  | [✔️](/pg200/42.md) |       |
+|  43   | 23.06.17 |    -     |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |  Done  | [✔️](/pg200/43.md) |       |
+|  44   | 23.06.17 |    -     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)         |  Done  | [✔️](/pg200/44.md) |       |
