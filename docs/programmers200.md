@@ -107,3 +107,5 @@
 |  42   | 23.06.16 |    -     |   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)   |  Done  | [✔️](/pg200/42.md) |       |
 |  43   | 23.06.17 |    -     |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |  Done  | [✔️](/pg200/43.md) |       |
 |  44   | 23.06.17 |    -     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)         |  Done  | [✔️](/pg200/44.md) |       |
+|  45   | 23.06.18 |    -     |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | Doing  | [✔️](/pg200/45.md) |       |
+|  46   | 23.06.18 |    -     |        [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)        |  Done  | [✔️](/pg200/46.md) |       |
