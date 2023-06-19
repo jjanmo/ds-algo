@@ -20,5 +20,43 @@ function solution1(n, m) {
   console.log(count);
 }
 
-solution1(3, 2);
-solution1(4, 3);
+// solution1(3, 2);
+// solution1(4, 3);
+
+//--- 23.06.20
+
+function reSol1(n, m) {
+  const result = [];
+  const tmp = [];
+
+  // const recur = () => {
+  //   if (tmp.length === m) {
+  //     result.push([...tmp]);
+  //   } else {
+  //     for (let i = 1; i <= n; i++) {
+  //       tmp.push(i);
+  //       recur();
+  //       tmp.pop();
+  //     }
+  //   }
+  // };
+
+  // param {l} → level(깊이를 의미함!)
+  // 위와 같은 풀이 (이건 강의에서 푼 풀이 스타일)
+  const recur = (l) => {
+    if (l === m) {
+      result.push([...tmp]);
+    } else {
+      for (let i = 1; i <= n; i++) {
+        tmp[l] = i;
+        recur(l + 1);
+      }
+    }
+  };
+
+  recur(0);
+  console.log(result, result.length);
+}
+
+reSol1(3, 2); // 9
+reSol1(4, 3); // 64
