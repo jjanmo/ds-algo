@@ -7,21 +7,20 @@ function solution(n, m, array) {
 
   const dfs = (level) => {
     if (level === m) {
-      // 종료
       count++;
-      result.push([...tmp]);
-    }
+      result.push([...tmp]); // spread operator : tmp가 배열(객체)이기 때문에 주소값을 공유하고 있어서 깊은 복사가 필요
+    } else {
+      for (let i = 0; i < n; i++) {
+        if (!visited[i]) {
+          visited[i] = true;
+          tmp[level] = array[i];
+          dfs(level + 1);
 
-    for (let i = 0; i < n; i++) {
-      if (visited[i]) continue;
-
-      visited[i] = true;
-      tmp[level] = array[i];
-      dfs(level + 1);
-
-      // Q. 아래 두 코드의 의미는??
-      visited[i] = false;
-      tmp.pop();
+          // Q. 아래 코드의 의미는??
+          // 다시 반복할 때 앞에서부터 시작할수 있게끔 만들어주는 코드
+          visited[i] = false;
+        }
+      }
     }
   };
 
