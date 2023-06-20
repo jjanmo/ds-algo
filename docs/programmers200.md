@@ -109,3 +109,5 @@
 |  44   | 23.06.17 |    -     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)         |  Done  | [✔️](/pg200/44.md) |       |
 |  45   | 23.06.18 |    -     |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | Doing  | [✔️](/pg200/45.md) |       |
 |  46   | 23.06.18 |    -     |        [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)        |  Done  | [✔️](/pg200/46.md) |       |
+|  47   | 23.06.19 |    -     |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |  Done  | [✔️](/pg200/47.md) |       |
+|  48   | 23.06.20 |    -     |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         |  Done  | [✔️](/pg200/48.md) | 7828  |
