@@ -111,3 +111,5 @@
 |  46   | 23.06.18 |    -     |        [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)        |  Done  | [✔️](/pg200/46.md) |       |
 |  47   | 23.06.19 |    -     |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |  Done  | [✔️](/pg200/47.md) |       |
 |  48   | 23.06.20 |    -     |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         |  Done  | [✔️](/pg200/48.md) | 7828  |
+|  49   | 23.06.21 |    -     |           [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)           | Doing  |         -          |       |
+|  50   | 23.06.21 |    -     |    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)    |  Done  | [✔️](/pg200/50.md) |       |
