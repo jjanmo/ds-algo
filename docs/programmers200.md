@@ -114,3 +114,5 @@
 |  48   | 23.06.20 |    -     |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         |  Done  | [✔️](/pg200/48.md) | 7828  |
 |  49   | 23.06.21 |    -     |           [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)           |  Done  | [✔️](/pg200/49.md) |       |
 |  50   | 23.06.21 | 23.06.22 |    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)    |  Done  | [✔️](/pg200/50.md) |       |
+|  51   | 23.06.22 |    -     |      [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)       |  Done  |         -          |       |
+|  52   | 23.06.22 |    -     |         [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)         |  Done  | [✔️](/pg200/52.md) |       |
