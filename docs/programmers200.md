@@ -40,6 +40,7 @@
 
 여러 측면에서 Leet Code가 더 많은 장점을 가지고 있긴했다. 하지만, 프로그래머스에서 지금까지 해놓은 기록(?)들이 있어서 그 부분을 이어나가면 `챌린지`다운 재미가 있을거 같다는 생각이 들었다. 또한 한글이라 점이 큰 작용을 한 것 같다. (~~핑계같지만,~~ 영어로 보는게 문제가 된다기보다 영어이기때문에 들어가는 시간을 아끼고 싶은 생각이 들었다.) 프로그래머스의 문제가 레벨별로 되어 있는데, 현재 레벨별로 안푼 문제의 수는 아래와 같다.
 
+- 레벨 0 : 정답율 낮은 문제들 little bit! 😅
 - 레벨 1 : 27 문제
 - 레벨 2 : 93 문제
 - 레벨 3 : 64 문제
@@ -111,5 +112,5 @@
 |  46   | 23.06.18 |    -     |        [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)        |  Done  | [✔️](/pg200/46.md) |       |
 |  47   | 23.06.19 |    -     |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |  Done  | [✔️](/pg200/47.md) |       |
 |  48   | 23.06.20 |    -     |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         |  Done  | [✔️](/pg200/48.md) | 7828  |
-|  49   | 23.06.21 |    -     |           [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)           | Doing  |         -          |       |
-|  50   | 23.06.21 |    -     |    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)    |  Done  | [✔️](/pg200/50.md) |       |
+|  49   | 23.06.21 |    -     |           [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)           |  Done  | [✔️](/pg200/49.md) |       |
+|  50   | 23.06.21 | 23.06.22 |    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)    |  Done  | [✔️](/pg200/50.md) |       |
