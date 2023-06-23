@@ -116,3 +116,5 @@
 |  50   | 23.06.21 | 23.06.22 |    [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)    |  Done  | [✔️](/pg200/50.md) |       |
 |  51   | 23.06.22 |    -     |      [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)       |  Done  |         -          |       |
 |  52   | 23.06.22 |    -     |         [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)         |  Done  | [✔️](/pg200/52.md) |       |
+|  53   | 23.06.23 |    -     |      [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)       |  Done  |         -          |       |
+|  54   | 23.06.23 |    -     |       [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)        |  Done  |         -          |       |
