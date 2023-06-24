@@ -117,4 +117,6 @@
 |  51   | 23.06.22 |    -     |      [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)       |  Done  |         -          |       |
 |  52   | 23.06.22 |    -     |         [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)         |  Done  | [✔️](/pg200/52.md) |       |
 |  53   | 23.06.23 |    -     |      [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)       |  Done  |         -          |       |
-|  54   | 23.06.23 |    -     |       [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)        |  Done  |         -          |       |
+|  54   | 23.06.23 |    -     |       [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)        |  Done  | [✔️](/pg200/54.md) |       |
+|  55   | 23.06.24 |    -     |          [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)          |  Done  |         -          |       |
+|  56   | 23.06.24 |    -     |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)    |  Done  |         -          |       |
