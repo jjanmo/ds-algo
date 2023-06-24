@@ -30,6 +30,68 @@ function postorder(n) {
   return `${postorder(2 * n)}${postorder(2 * n + 1)}${n}`;
 }
 
-console.log(preorder(1)); // 1245367
-console.log(inorder(1)); // 4251637
-console.log(postorder(1)); // 4526731
+// console.log(preorder(1)); // 1245367
+// console.log(inorder(1)); // 4251637
+// console.log(postorder(1)); // 4526731
+
+//---
+
+// 전위순회 출력 : 1 2 4 5 3 6 7
+// preorder : 이진트리 유닛(삼각형 3개 노드) 기준 부모를 먼저 탐색하는 것
+function review1(n) {
+  let result = '';
+
+  const dfs = (l) => {
+    if (l > n) return;
+
+    result += l + ' ';
+    dfs(2 * l);
+    dfs(2 * l + 1);
+  };
+
+  dfs(1);
+
+  return result;
+}
+
+console.log('preorder', review1(7));
+
+// 중위순회 출력 : 4 2 5 1 6 3 7
+// inorder : 이진트리 유닛(삼각형 3개 노드) 기준 부모를 중간에 탐색하는 것
+function review2(n) {
+  let result = '';
+
+  const dfs = (l) => {
+    if (l > n) return;
+
+    dfs(2 * l); // 2 * l => 왼쪽 노드를 의미
+    result += l + ' ';
+    dfs(2 * l + 1); // 2 * l => 오른쪽 노드를 의미
+  };
+
+  dfs(1);
+
+  return result;
+}
+
+console.log('inorder', review2(7));
+
+// 후위순회 출력 : 4 5 2 6 7 3 1
+// postorder :  이진트리 유닛(삼각형 3개 노드) 기준 부모를 마지막에  탐색하는 것
+function review3(n) {
+  result = '';
+
+  const dfs = (l) => {
+    if (l > n) return;
+
+    dfs(2 * l);
+    dfs(2 * l + 1);
+    result += l + ' ';
+  };
+
+  dfs(1);
+
+  return result;
+}
+
+console.log('postoreder', review3(7));
