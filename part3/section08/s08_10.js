@@ -33,7 +33,7 @@ function solution(n, m, array) {
 
 //---
 
-// arr 안의 숫자 중에서 m개를 뽑는
+// arr 안의 숫자 중에서 m개를 순서에 맞게 뽑는...
 function review1(arr, m) {
   const checked = [];
   const tmp = [];
