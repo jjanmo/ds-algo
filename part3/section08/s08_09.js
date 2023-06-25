@@ -30,7 +30,7 @@ function solution1(coinType, amount) {
   return result;
 }
 
-console.log(solution1([1, 2, 5], 15));
+// console.log(solution1([1, 2, 5], 15));
 
 function solution2(coinType, amount) {
   let sum = 0;
@@ -57,3 +57,31 @@ function solution2(coinType, amount) {
 
 // console.log(solution2([1, 2, 5], 15)); // 5원 3개
 // console.log(solution2([7, 2, 5], 100)); // 7원 14개 / 2원 1개
+
+//---
+
+function review1(change, types) {
+  const _types = types.sort((a, b) => b - a);
+  let result = Number.MAX_SAFE_INTEGER;
+  let called = 0; // 재귀함수 불리는 횟수
+
+  const dfs = (total, count) => {
+    called++;
+
+    if (total > change) return;
+    if (count >= result) return; // 이 조건에 따라서 called가 달라짐!
+    if (total === change) {
+      result = Math.min(count, result);
+      return;
+    }
+
+    for (let i = 0; i < _types.length; i++) {
+      dfs(total + _types[i], count + 1);
+    }
+  };
+
+  dfs(0, 0);
+  console.log({ called, result });
+}
+
+review1(15, [1, 2, 5]);

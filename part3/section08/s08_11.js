@@ -16,6 +16,19 @@ function solution2(n) {
   console.log(recursive(n));
 }
 
-console.log(solution1(5)); // 120
+// console.log(solution1(5)); // 120
 
-solution2(5);
+// solution2(5);
+
+//---
+function review(n) {
+  const dfs = (n) => {
+    if (n === 1) return 1;
+
+    return n * dfs(n - 1);
+  };
+
+  return dfs(n);
+}
+
+console.log(review(5));

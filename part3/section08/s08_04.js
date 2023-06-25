@@ -28,7 +28,41 @@ function log(arr) {
   }, '');
 }
 
-solution(3);
+// solution(3);
+
+/*
+OUPUT
+1 2 3
+1 2
+1 3
+1
+2 3
+2
+3
+*/
+
+//---
+
+function review(n) {
+  let count = 0;
+
+  const dfs = (k, result) => {
+    if (k > n) {
+      count++;
+      console.log('✔️', result);
+      return;
+    }
+
+    dfs(k + 1, result + ' ' + k);
+    dfs(k + 1, result);
+  };
+
+  dfs(1, '');
+
+  return count - 1; // 공집합 빼기!
+}
+
+review(3);
 
 /*
 OUPUT

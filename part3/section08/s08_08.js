@@ -58,5 +58,32 @@ function reSol1(n, m) {
   console.log(result, result.length);
 }
 
-reSol1(3, 2); // 9
-reSol1(4, 3); // 64
+// reSol1(3, 2); // 9
+// reSol1(4, 3); // 64
+
+//---
+
+function review(n, m) {
+  const result = [];
+  let count = 0;
+
+  const dfs = () => {
+    if (result.length === m) {
+      console.log(result);
+      count++;
+      return;
+    }
+
+    for (let i = 1; i <= n; i++) {
+      result.push(i);
+      dfs();
+      result.pop();
+    }
+  };
+
+  dfs();
+  console.log(count);
+}
+
+review(3, 2); // 9
+review(4, 3); // 64

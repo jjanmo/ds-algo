@@ -28,5 +28,38 @@ function solution(n, m, array) {
   console.log(result, count);
 }
 
-solution(3, 2, [3, 6, 9]); // 6
-solution(4, 2, [1, 3, 6, 9]); // 12
+// solution(3, 2, [3, 6, 9]); // 6
+// solution(4, 2, [1, 3, 6, 9]); // 12
+
+//---
+
+// arr 안의 숫자 중에서 m개를 뽑는
+function review1(arr, m) {
+  const checked = [];
+  const tmp = [];
+  let count = 0;
+
+  const dfs = () => {
+    if (tmp.length === m) {
+      count++;
+      console.log('✔️', tmp.join(' '));
+      return;
+    }
+
+    for (let i = 0; i < arr.length; i++) {
+      if (!checked[i]) {
+        checked[i] = 1;
+        tmp.push(arr[i]);
+        dfs();
+        checked[i] = 0;
+        tmp.pop();
+      }
+    }
+  };
+
+  dfs();
+  console.log(count);
+}
+
+review1([3, 6, 9], 2); // 6
+// review1([1, 3, 6, 9], 2); // 12
