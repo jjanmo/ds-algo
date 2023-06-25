@@ -29,5 +29,26 @@ function solution2(n, r) {
   return dfs(n, r);
 }
 
-console.log(solution2(5, 3)); // 10
-console.log(solution2(33, 19)); // 818809200
+// console.log(solution2(5, 3)); // 10
+// console.log(solution2(33, 19)); // 818809200
+
+//---
+
+function review(n, r) {
+  const memo = {}; // memoization을 이용한 효율성 업!!
+
+  const dfs = (n, r) => {
+    // ✅ r === 1 인 경우는 빼야함 ex. 3C1 → 3이 나와야함!
+    if (memo[`${n}-${r}`]) return memo[`${n}-${r}`];
+    if (n === r || r === 0) {
+      return 1;
+    }
+
+    return (memo[`${n}-${r}`] = dfs(n - 1, r - 1) + dfs(n - 1, r));
+  };
+
+  return dfs(n, r);
+}
+
+console.log(review(5, 3)); // 10
+console.log(review(33, 19)); // 818809200
