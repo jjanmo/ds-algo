@@ -147,7 +147,10 @@
 
 > Dynamic programming(동적계획법 )
 
-| Index |    Problem    |            My Solution             | What I Learned |
-| :---: | :-----------: | :--------------------------------: | :------------: |
-|  01   |  계단오르기   | [Code](/part3/section10/s10_01.js) |                |
-|  02   | 돌다리 건너기 | [Code](/part3/section10/s10_02.js) |                |
+| Index |        Problem        |            My Solution             | What I Learned |
+| :---: | :-------------------: | :--------------------------------: | :------------: |
+|  01   |      계단오르기       | [Code](/part3/section10/s10_01.js) |                |
+|  02   |     돌다리 건너기     | [Code](/part3/section10/s10_02.js) |                |
+|  03   | 최대 부분 증가수열⭐️ | [Code](/part3/section10/s10_03.js) |                |
+|  04   |     동전 교환 ⭐️     | [Code](/part3/section10/s10_04.js) |                |
+|  05   |  최대점수 구하기 ⭐️  | [Code](/part3/section10/s10_05.js) |                |
