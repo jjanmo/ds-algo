@@ -120,3 +120,4 @@
 |  54   | 23.06.23 |    -     |       [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)        |  Done  | [✔️](/pg200/54.md) |       |
 |  55   | 23.06.24 |    -     |          [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)          |  Done  |         -          |       |
 |  56   | 23.06.24 |    -     |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)    |  Done  |         -          |       |
+|  57   | 23.06.29 |    -     |         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         |  Done  | [✔️](/pg200/57.md) |       |
