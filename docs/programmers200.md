@@ -56,7 +56,7 @@
 ## Problems
 
 > Start : 시작날짜 <br />
-> Update : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 <br />
+> Update : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 🌟 <br />
 > Status : `Doing | Done` 을 통해 문제를 풀어나가는 상태를 기록 <br />
 > Solution : `깨달음`이 있거나 `기록하고 싶은 문제`의 경우 기록할 예정 <br />
 > Rank : 6월 8일부터 기록함. 프로그래머스에서 나오는 랭킹 기록. 문제를 풀 때마다 조금씩 상승하는 것 같음. 처음엔 20000등 밖이였는데...
@@ -108,7 +108,7 @@
 |  42   | 23.06.16 |    -     |   [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)   |  Done  | [✔️](/pg200/42.md) |       |
 |  43   | 23.06.17 |    -     |          [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)           |  Done  | [✔️](/pg200/43.md) |       |
 |  44   | 23.06.17 |    -     |        [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)         |  Done  | [✔️](/pg200/44.md) |       |
-|  45   | 23.06.18 |    -     |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | Doing  | [✔️](/pg200/45.md) |       |
+|  45   | 23.06.18 |    🌟    |    [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)     | Doing  | [✔️](/pg200/45.md) |       |
 |  46   | 23.06.18 |    -     |        [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)        |  Done  | [✔️](/pg200/46.md) |       |
 |  47   | 23.06.19 |    -     |         [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)         |  Done  | [✔️](/pg200/47.md) |       |
 |  48   | 23.06.20 |    -     |         [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)         |  Done  | [✔️](/pg200/48.md) | 7828  |
@@ -121,3 +121,4 @@
 |  55   | 23.06.24 |    -     |          [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)          |  Done  |         -          |       |
 |  56   | 23.06.24 |    -     |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)    |  Done  |         -          |       |
 |  57   | 23.06.29 |    -     |         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         |  Done  | [✔️](/pg200/57.md) |       |
+|  58   | 23.06.30 |    -     |         [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)          |  Done  | [✔️](/pg200/58.md) |       |
