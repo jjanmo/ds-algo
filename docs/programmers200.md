@@ -122,3 +122,4 @@
 |  56   | 23.06.24 |    -     |    [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)    |  Done  |         -          |       |
 |  57   | 23.06.29 |    -     |         [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)         |  Done  | [✔️](/pg200/57.md) |       |
 |  58   | 23.06.30 |    -     |         [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)          |  Done  | [✔️](/pg200/58.md) |       |
+|  59   | 23.07.01 |    -     |      [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      |  Done  | [✔️](/pg200/59.md) |       |
