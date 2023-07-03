@@ -12,7 +12,10 @@
   - [30DaysOfJavascript](https://leetcode.com/studyplan/30-days-of-javascript/)
 
 - 승지니어 유튜브
+
   - [기본편](https://www.youtube.com/playlist?list=PL2mzT_U4XxDm7p6g1o3KeQMsyRLfzSaVW)
   - [실전편](https://www.youtube.com/playlist?list=PL2mzT_U4XxDl8PP-jMk4rt6BPzBtS__pQ)
+
+- [FullStack Cafe](https://www.fullstack.cafe/)에서의 Code Challenge Part
 
 </details>
