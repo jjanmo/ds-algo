@@ -34,3 +34,6 @@ function solution2() {}
 solution2([1, 3, 5], 15); // 3
 solution2([1, 8, 20, 25, 50], 129); // 5
 solution2([1, 5, 10, 15, 20, 25, 30, 50, 70, 65, 90, 100], 290); // 3
+
+// DFS로 풀어보기!!
+function solution3() {}
