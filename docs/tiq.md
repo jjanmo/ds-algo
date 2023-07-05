@@ -15,19 +15,30 @@ ps. 이걸 하는 동안 기존에 `pg200 챌린지`는 잠시 스탑하도록! 
 ## List
 
 > Start : 시작날짜 <br />
-> Update : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 🌟 <br />
+> Update : 시작은 했지만 못 푼 문제를 풀었을 때 혹은 추가로 풀이가 업데이트 된 경우에 해당 🌟 <br />
 > Status : `Doing | Done` 을 통해 문제를 풀어나가는 상태를 기록 <br />
 > Solution : `깨달음`이 있거나 `기록하고 싶은 문제`의 경우 기록할 예정 <br />
 
-| Index |   Start    | Update |                 Problem                 | Status |    Solution     |
-| :---: | :--------: | :----: | :-------------------------------------: | :----: | :-------------: |
-|  01   | 2023.07.04 |   🌟   | 122. Best Time to Buy and Sell Stock II | Doing  |        -        |
-|  02   | 2023.07.04 |   -    |           7. Reverse Integer            |  Done  | [✔️](/tiq/2.md) |
-|  03   | 2023.07.04 |   -    | 387. First Unique Character in a String |  Done  |        -        |
-|  04   | 2023.07.04 |   -    |           242. Valid Anagram            |  Done  | [✔️](/tiq/4.md) |
-|  05   | 2023.07.04 |   -    |           344. Reverse String           |  Done  |        -        |
-|  06   | 2023.07.04 |   -    |          125. Valid Palindrom           |  Done  |        -        |
-|  07   | 2023.07.04 |   -    |       8. String to Integer (atoi)       |  Done  | [✔️](/tiq/6.md) |
-|  08   | 2023.07.04 |   -    |                    -                    |   -    |        -        |
-|  09   | 2023.07.04 |   -    |                    -                    |   -    |        -        |
-|  10   | 2023.07.04 |   -    |                    -                    |   -    |        -        |
+| Index |   Start    |   Update   |                 Problem                 | Status |     Solution     |
+| :---: | :--------: | :--------: | :-------------------------------------: | :----: | :--------------: |
+|  01   | 2023.07.04 |     🌟     | 122. Best Time to Buy and Sell Stock II | Doing  |        -         |
+|  02   | 2023.07.04 |     -      |           7. Reverse Integer            |  Done  | [✔️](/tiq/2.md)  |
+|  03   | 2023.07.04 |     -      | 387. First Unique Character in a String |  Done  |        -         |
+|  04   | 2023.07.04 |     -      |           242. Valid Anagram            |  Done  | [✔️](/tiq/4.md)  |
+|  05   | 2023.07.04 |     -      |           344. Reverse String           |  Done  |        -         |
+|  06   | 2023.07.04 |     -      |          125. Valid Palindrom           |  Done  |        -         |
+|  07   | 2023.07.04 |     -      |       8. String to Integer (atoi)       |  Done  | [✔️](/tiq/6.md)  |
+|  08   | 2023.07.04 |     -      |        14. Longest Common Prefix        |  Done  |        -         |
+|  09   | 2023.07.04 | 2023.07.05 |               1. Two Sum                |  Done  | [✔️](/tiq/9.md)  |
+|  10   | 2023.07.05 |     -      |            189. Rotate Array            |  Done  | [✔️](/tiq/10.md) |
+|  11   | 2023.07.05 |     -      |         217. Contains Duplicate         |  Done  |        -         |
+|  12   | 2023.07.05 |     -      |           136. Single Number            |  Done  |        -         |
+|  13   | 2023.07.05 |     -      |   350. Intersection of Two Arrays II    |  Done  |        -         |
+|  14   | 2023.07.05 |     -      |              66. Plus One               |  Done  |        -         |
+|  15   | 2023.07.05 |     -      |            283. Move Zeroes             |  Done  | [✔️](/tiq/15.md) |
+|  16   | 2023.07.05 |     -      |            36. Valid Sudoku             |  Done  |        -         |
+|  17   | 2023.07.05 |     -      |          20. Valid Parentheses          |  Done  |        -         |
+
+| 18 | 2023.07.05 | - | - | - | - |
+| 19 | 2023.07.05 | - | - | - | - |
+| 20 | 2023.07.05 | - | - | - | - |
