@@ -39,4 +39,7 @@ ps. 이걸 하는 동안 기존에 `pg200 챌린지`는 잠시 스탑하도록! 
 |  16   | 2023.07.05 |     -      |            36. Valid Sudoku             |  Done  |        -         |
 |  17   | 2023.07.05 |     -      |          20. Valid Parentheses          |  Done  |        -         |
 |  18   | 2023.07.12 |     -      |    237. Delete Node in a Linked List    |  Done  |        -         |
-|  19   | 2023.07.12 |     -      |                    -                    |   -    |        -         |
+|  19   | 2023.07.12 |     -      |         278. First Bad Version          |  Done  |        -         |
+|  20   | 2023.07.12 |     -      |             412. Fizz Buzz              |  Done  |        -         |
+|  21   | 2023.07.13 |     -      |            204. Count Primes            |  Done  |        -         |
+|  21   | 2023.07.13 |     -      |           268. Missing Number           |  Done  |        -         |
