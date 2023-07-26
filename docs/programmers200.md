@@ -124,3 +124,4 @@
 |  58   | 23.06.30 |    -     |         [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)          |  Done  | [✔️](/pg200/58.md) |       |
 |  59   | 23.07.01 |    -     |      [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)      |        |                    |       |
 |  60   | 23.07.25 |    -     |       [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)        |  Done  | [✔️](/pg200/60.md) |       |
+|  61   | 23.07.26 |    -     |      [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)       |  Done  |         -          |       |
