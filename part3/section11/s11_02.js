@@ -1,3 +1,4 @@
+// 문제 이해!
 function solution(array, count) {}
 
 solution([3, 2, 5, 6, 7, 1], 3); // 14

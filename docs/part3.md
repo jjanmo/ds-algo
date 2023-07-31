@@ -159,6 +159,10 @@
 
 > 모의고사 문제 풀이
 
-| Index |   Problem   |            My Solution             | What I Learned |
-| :---: | :---------: | :--------------------------------: | :------------: |
-|  01   | 빈도수 정렬 | [Code](/part3/section11/s11_01.js) |                |
+| Index | Completed Date |     Problem     |            My Solution             | What I Learned |
+| :---: | :------------: | :-------------: | :--------------------------------: | :------------: |
+|  01   |    23.07.30    |   빈도수 정렬   | [Code](/part3/section11/s11_01.js) |                |
+|  02   |                |    카드 점수    | [Code](/part3/section11/s11_02.js) |                |
+|  03   |                | 그래프 최대점수 | [Code](/part3/section11/s11_03.js) |                |
+|  04   |                |    사과 먹기    | [Code](/part3/section11/s11_04.js) |                |
+|  05   |                |    퍼즐 게임    | [Code](/part3/section11/s11_05.js) |                |
