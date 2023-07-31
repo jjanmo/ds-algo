@@ -154,3 +154,11 @@
 |  03   | 최대 부분 증가수열⭐️⭐️ | [Code](/part3/section10/s10_03.js) |                |
 |  04   |     동전 교환 ⭐️⭐️     | [Code](/part3/section10/s10_04.js) |                |
 |  05   | 최대점수 구하기 ⭐️ ⭐️  | [Code](/part3/section10/s10_05.js) |                |
+
+# Section 11
+
+> 모의고사 문제 풀이
+
+| Index |   Problem   |            My Solution             | What I Learned |
+| :---: | :---------: | :--------------------------------: | :------------: |
+|  01   | 빈도수 정렬 | [Code](/part3/section11/s11_01.js) |                |
