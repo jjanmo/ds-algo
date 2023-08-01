@@ -21,8 +21,8 @@ function solution1(s, e) {
   }
 }
 
-console.log(solution1(5, 14)); // 3
-console.log(solution1(8, 3)); // 5
+// console.log(solution1(5, 14)); // 3
+// console.log(solution1(8, 3)); // 5
 
 // 업그레이드 풀이!
 function solution2(s, e) {
@@ -52,27 +52,40 @@ function solution2(s, e) {
 
 //----
 
+// BFS
 function review(s, e) {
+  const checked = [s]; // 주의! 초기값 설정 해놓아야함
+  const queue = [];
   const jumps = [-1, 1, 5];
-  const result = [];
 
-  const dfs = (total, count) => {
-    if (total > e || total < 0) return;
-    if (total === e) {
-      result.push(count);
-      console.log(result);
-      return;
-    }
+  queue.push({
+    value: s,
+    count: 0,
+  });
+  let tcount = 0;
+
+  while (queue.length !== 0) {
+    tcount++;
+    const shifted = queue.shift();
+    const { value, count } = shifted;
 
     for (const jump of jumps) {
-      total += jump;
-      count++;
-      dfs(total, count);
-    }
-  };
+      const next = value + jump;
+      if (next === e) return count + 1;
 
-  dfs(s, 0);
+      if (!checked.includes(next)) {
+        checked.push(next);
+        queue.push({
+          value: next,
+          count: count + 1,
+        });
+      }
+    }
+  }
 }
 
-review(5, 14);
-review(8, 3);
+console.log(review(5, 14)); // 3
+console.log(review(8, 3)); // 5
+
+// TODO
+// DFS로 접근해보자!!
