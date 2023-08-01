@@ -47,5 +47,32 @@ function solution2(s, e) {
   }
 }
 
-console.log(solution1(5, 14)); // 3
-console.log(solution1(8, 3)); // 5
+// console.log(solution1(5, 14)); // 3
+// console.log(solution1(8, 3)); // 5
+
+//----
+
+function review(s, e) {
+  const jumps = [-1, 1, 5];
+  const result = [];
+
+  const dfs = (total, count) => {
+    if (total > e || total < 0) return;
+    if (total === e) {
+      result.push(count);
+      console.log(result);
+      return;
+    }
+
+    for (const jump of jumps) {
+      total += jump;
+      count++;
+      dfs(total, count);
+    }
+  };
+
+  dfs(s, 0);
+}
+
+review(5, 14);
+review(8, 3);
