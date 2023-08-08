@@ -126,3 +126,5 @@
 |  60   | 23.07.25 |    -     |       [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)        |  Done  | [✔️](/pg200/60.md) |       |
 |  61   | 23.07.26 |    -     |      [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)       |  Done  |         -          |       |
 |  62   | 23.07.27 |    -     |  [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  |  Done  | [✔️](/pg200/62.md) |       |
+|  63   | 23.08.08 |    -     |       [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)        |  Done  |                    |       |
+|  64   | 23.08.08 |          |           [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)            |  Done  | [✔️](/pg200/64.md) |       |
