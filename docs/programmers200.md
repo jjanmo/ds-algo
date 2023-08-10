@@ -128,3 +128,4 @@
 |  62   | 23.07.27 |    -     |  [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  |  Done  | [✔️](/pg200/62.md) |       |
 |  63   | 23.08.08 |    -     |       [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)        |  Done  |                    |       |
 |  64   | 23.08.08 |          |           [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)            |  Done  | [✔️](/pg200/64.md) |       |
+|  65   | 23.08.10 |          |      [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)       |  Done  | [✔️](/pg200/65.md) |       |
