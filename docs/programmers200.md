@@ -129,3 +129,5 @@
 |  63   | 23.08.08 |    -     |       [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)        |  Done  |                    |       |
 |  64   | 23.08.08 |          |           [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)            |  Done  | [✔️](/pg200/64.md) |       |
 |  65   | 23.08.10 |          |      [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)       |  Done  | [✔️](/pg200/65.md) |       |
+|  66   | 23.08.11 |          |        [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)         |  Done  |                    |       |
+|  67   | 23.08.11 |          |  [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |  Done  | [✔️](/pg200/67.md) |       |
