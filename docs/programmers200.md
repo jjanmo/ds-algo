@@ -133,3 +133,4 @@
 |  67   | 23.08.11 |    -     |   [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   |  Done  | [✔️](/pg200/67.md) |       |
 |  68   | 23.08.18 |    -     |            [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)            |  Done  |                    |       |
 |  69   | 23.08.18 |    🌟    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Doing  | [✔️](/pg200/69.md) |       |
+|  70   | 23.08.23 |          |            [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            | Doing  |                    |       |
