@@ -135,3 +135,4 @@
 |  69   | 23.08.18 |    🌟    | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Doing  | [✔️](/pg200/69.md) |       |
 |  70   | 23.08.23 | 23.08.24 |            [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            |  Done  |                    |       |
 |  71   | 23.09.06 |    -     |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       |  Done  |                    |       |
+|  72   | 23.09.07 |    -     |   [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  Done  | [✔️](/pg200/72.md) |       |
