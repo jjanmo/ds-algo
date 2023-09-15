@@ -56,7 +56,7 @@
 ## Problems
 
 > Start : 시작날짜 <br />
-> Update : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 🌟 <br />
+> Update : 시작은 했지만 못 푼 문제의 경우에는 풀이가 업데이트되는 날짜 역시 기록 🌟 + 재도전이 필요하다면 이모지(🌟)!<br />
 > Status : `Doing | Done` 을 통해 문제를 풀어나가는 상태를 기록 <br />
 > Solution : `깨달음`이 있거나 `기록하고 싶은 문제`의 경우 기록할 예정 <br />
 > Rank : 6월 8일부터 기록함. 프로그래머스에서 나오는 랭킹 기록. 문제를 풀 때마다 조금씩 상승하는 것 같음. 처음엔 20000등 밖이였는데...
@@ -137,3 +137,4 @@
 |  71   | 23.09.06 |    -     |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       |  Done  |                    |       |
 |  72   | 23.09.07 |    -     |   [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  Done  | [✔️](/pg200/72.md) |       |
 |  73   | 23.09.14 |    -     |          [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          |  Done  | [✔️](/pg200/73.md) |       |
+|  74   | 23.09.15 |    🌟    |   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |  Done  | [✔️](/pg200/74.md) |       |
