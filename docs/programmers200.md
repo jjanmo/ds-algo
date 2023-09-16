@@ -138,3 +138,4 @@
 |  72   | 23.09.07 |    -     |   [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)   |  Done  | [✔️](/pg200/72.md) |       |
 |  73   | 23.09.14 |    -     |          [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)          |  Done  | [✔️](/pg200/73.md) |       |
 |  74   | 23.09.15 |    🌟    |   [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)    |  Done  | [✔️](/pg200/74.md) |       |
+|  75   | 23.09.16 |          |          [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)          | Doing  |                    |       |
