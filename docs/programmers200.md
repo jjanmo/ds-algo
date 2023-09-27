@@ -143,3 +143,4 @@
 |  77   | 23.09.19 |          |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)    |  Done  | [✔️](/pg200/77.md) | 4569  |
 |  78   | 23.09.22 |          |      [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)      |  Done  |                    |       |
 |  79   | 23.09.24 |          |         [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)         |  Done  | [✔️](/pg200/79.md) |       |
+|  80   | 23.09.27 |          |       [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)       |  Done  |                    |       |
