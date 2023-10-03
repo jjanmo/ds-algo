@@ -145,3 +145,4 @@
 |  79   | 23.09.24 |          |         [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)         |  Done  | [✔️](/pg200/79.md) |       |
 |  80   | 23.09.27 |          |       [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)       |  Done  |                    |       |
 |  81   | 23.09.28 |          |         [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         |  Done  | [✔️](/pg200/81.md) |       |
+|  82   | 23.10.03 |          |         [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)          |  Done  | [✔️](/pg200/82.md) |       |
