@@ -148,3 +148,4 @@
 |  82   | 23.10.03 |          |         [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)          |  Done  | [✔️](/pg200/82.md) |       |
 |  83   | 23.10.09 |          |        [배열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181921)         |  Done  | [✔️](/pg200/83.md) |       |
 |  84   | 23.10.13 |          |         [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)          |  Done  | [✔️](/pg200/84.md) |       |
+|  85   | 23.10.14 |    🌟    |       [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)       |  Done  |                    |       |
