@@ -8,9 +8,7 @@
 
 - [문제 풀이 리스트](/docs/part1.md)
 
-## Part2 : Data Structures 구현하기 & 관련 문제 풀기 [doing]
-
-- [문제 풀이 리스트](/docs/part2.md)
+## Part2 : Data Structures
 
 ## Part3 : 자바스크립트 알고리즘 문제풀이 [done]
 
@@ -22,8 +20,8 @@
 
 > 나만의 알고리즘 챌린지를 기록해본다.
 
-- [Algorithm 150](/docs/algorithm150.md)
+- [Algorithm 150](/docs/algorithm150.md)[done]
 
-- [프로그래머스 200](/docs/programmers200.md)
+- [프로그래머스 200](/docs/programmers200.md)[done]
 
-- [LEET-CODE : Top Interview Questions Easy](/docs/top-interview-questions.md) [done]
+- [LEET-CODE : Top Interview Questions Easy](/docs/tiq.md) [done]
