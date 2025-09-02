@@ -8,13 +8,19 @@
 
 - [문제 풀이 리스트](/docs/part1.md)
 
-## Part2 : Data Structures
+## Part2 : Data Structures & Algorithms [pause]
+
+> [JavaScript 알고리즘 & 자료구조 마스터클래스](https://www.udemy.com/course/best-javascript-data-structures/) 를 통해서 주요 자료구조를 직접 구현해보고 관련된 알고리즘 문제들을 풀어보자.
 
 ## Part3 : 자바스크립트 알고리즘 문제풀이 [done]
 
 - 자바스크립트를 통해서 알고리즘을 공부하는 것에 대한 자료가 생각보다 많이 부족하고 스스로 공부하기 벅찬 부분이 있어서 [강의](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)의 도움을 빌렸다. 그렇기 때문에 내용(문제)에 대한 저작권이 있을 수 있기 때문에 내가 푼 소스 코드와 재가공한 내용에 대해서만 기록할 예정이다. 조금 더 정확하고 자세한 설명을 원한다면 위 강의를 참고하시길...😅 (혹은 문제 제목을 검색하면 비슷한 문제를 찾을 수 있을 것 같다.)
 
 - [문제 풀이 리스트](/docs/part3.md)
+
+## Part4 : 2025년 코테 준비 [ing]
+
+> [코딩 테스트 합격자 되기 - 자바스크립트 편](https://www.yes24.com/product/goods/128182419) 문제 풀기
 
 ## Challenges
 
