@@ -6,41 +6,55 @@
  */
 
 function solution(dirs) {
-  const history = {};
-  const position = [0, 0];
+  const historyMap = {};
+  const position = { x: 0, y: 0 };
   let movingDistance = 0;
 
   for (let i = 0; i < dirs.length; i++) {
     const command = dirs[i];
+    const prev = `${position.x}_${position.y}`;
+
     switch (command) {
-      case "U":
-        if (position[1] > 5) break;
-        position[1] += 1;
+      case 'U':
+        position.y += 1;
+        if (position.y > 5) {
+          position.y -= 1;
+          continue;
+        }
         break;
-      case "D":
-        if (position[1] < -5) break;
-        position[1] -= 1;
+      case 'D':
+        position.y -= 1;
+        if (position.y < -5) {
+          position.y += 1;
+          continue;
+        }
         break;
-      case "R":
-        if (position[0] < 5) break;
-        position[0] += 1;
+      case 'R':
+        position.x += 1;
+        if (position.x > 5) {
+          position.x -= 1;
+          continue;
+        }
         break;
-      case "L":
-        if (position[0] < -5) break;
-        position[0] -= 1;
+      case 'L':
+        position.x -= 1;
+        if (position.x < -5) {
+          position.x += 1;
+          continue;
+        }
         break;
     }
+
+    const next = `${position.x}_${position.y}`;
+
+    if (historyMap[prev] === next || historyMap[next] === prev) continue;
+
+    historyMap[prev] = next;
     movingDistance++;
   }
+
+  return movingDistance;
 }
 
-function setHistory(history, start, end) {
-  if (!history[start]) history[start] = end;
-}
-
-function getHistory(history, start) {
-  return history[start];
-}
-
-console.log(solution("ULURRDLLU")); //7
-console.log(solution("LULLLLLLU")); //7
+console.log(solution('ULURRDLLU')); // 7
+console.log(solution('LULLLLLLU')); // 7
