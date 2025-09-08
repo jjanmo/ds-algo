@@ -6,54 +6,31 @@
  */
 
 function solution(dirs) {
-  const historyMap = {};
-  const position = { x: 0, y: 0 };
-  let movingDistance = 0;
+  const visited = new Set();
+  const position = [0, 0];
 
   for (let i = 0; i < dirs.length; i++) {
     const command = dirs[i];
-    const prev = `${position.x}_${position.y}`;
+    const prev = `${position[0]}_${position[1]}`;
 
-    switch (command) {
-      case 'U':
-        position.y += 1;
-        if (position.y > 5) {
-          position.y -= 1;
-          continue;
-        }
-        break;
-      case 'D':
-        position.y -= 1;
-        if (position.y < -5) {
-          position.y += 1;
-          continue;
-        }
-        break;
-      case 'R':
-        position.x += 1;
-        if (position.x > 5) {
-          position.x -= 1;
-          continue;
-        }
-        break;
-      case 'L':
-        position.x -= 1;
-        if (position.x < -5) {
-          position.x += 1;
-          continue;
-        }
-        break;
+    if (command === 'L' && position[0] > -5) {
+      position[0]--;
+    } else if (command === 'R' && position[0] < 5) {
+      position[0]++;
+    } else if (command === 'U' && position[1] < 5) {
+      position[1]++;
+    } else if (command === 'D' && position[1] > -5) {
+      position[1]--;
+    } else {
+      continue;
     }
 
-    const next = `${position.x}_${position.y}`;
-
-    if (historyMap[prev] === next || historyMap[next] === prev) continue;
-
-    historyMap[prev] = next;
-    movingDistance++;
+    const next = `${position[0]}_${position[1]}`;
+    visited.add(`${prev}_${next}`);
+    visited.add(`${next}_${prev}`);
   }
 
-  return movingDistance;
+  return visited.size / 2;
 }
 
 console.log(solution('ULURRDLLU')); // 7
