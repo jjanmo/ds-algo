@@ -18,17 +18,11 @@
 
 - [문제 풀이 리스트](/docs/part3.md)
 
-## Part4-1 : 코테 준비 Part1
+## Part4
 
-- [파이썬 알고리즘 문제풀이 입문](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+> 코테 준비 Part1
 
-  > Part3에서 했던 문제들을 다시 풀어보는 과정으로 Part3 보다는 좀 더 다양한 문제들이 있다.
-
-  > 해당 강의는 파이썬 강의이지만 자바스크립트와 파이썬으로 모두 구현할 예정이다.
-
-## Part4-2 : 코테 준비 Part2
-
-- [코딩 테스트 합격자 되기 - 자바스크립트 편](https://www.yes24.com/product/goods/128182419) 문제 풀기
+- [JavaScript 알고리즘 & 자료구조 마스터클래스](https://www.udemy.com/course/best-javascript-data-structures/) 강의 속 문제들을 직접 풀어보면서 자료구조와 알고리즘의 동작 원리를 이해하고 나의 언어로 설명하는 것을 목표로 한다.
 
 ## Challenges
 
