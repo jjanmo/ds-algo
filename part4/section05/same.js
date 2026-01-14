@@ -5,25 +5,23 @@
  */
 
 function same(arr1, arr2) {
+  if (arr1.length !== arr2.length) return false;
+
   const frequency = {};
 
-  const squares = arr1.map((num) => Math.pow(num, 2));
-  squares.forEach((square) => {
-    if (!frequency[square]) {
-      frequency[square] = 1;
-      return;
-    }
-
-    frequency[square]++;
-  });
-
-  for (let i = 0; i < arr2.length; i++) {
-    if (!frequency[arr2[i]]) return false;
-
-    frequency[arr2[i]]--;
+  for (let val of arr1) {
+    const square = val ** 2;
+    frequency[square] = (frequency[square] || 0) + 1;
   }
 
-  return Object.values(frequency).every((value) => !value);
+  for (let val of arr2) {
+    if (!frequency[val]) return false;
+
+    frequency[val]--;
+    // if (frequency[val] < 0) return false; >> 이 부분 필요 없음: 0보다 작아지려면 위의 if문 체크를 먼저 돌아야하는데 이 때 이미 체크됨
+  }
+
+  return true;
 }
 
 console.log(same([1, 2, 3], [4, 1, 9]));
