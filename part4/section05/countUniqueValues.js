@@ -25,3 +25,14 @@ console.log(countUniqueValues([1, 1, 1, 1, 1, 2])); // 2
 console.log(countUniqueValues([1, 2, 3, 4, 4, 4, 7, 7, 12, 12, 13])); // 7
 console.log(countUniqueValues([])); // 0
 console.log(countUniqueValues([-2, -1, -1, 0, 1])); // 4
+
+
+// Set을 사용하면 더 쉽게 풀수 있지 않나...🥲
+function solution2(arr) {
+  return new Set(arr).size;
+}
+
+console.log(solution2([1, 1, 1, 1, 1, 2])); // 2
+console.log(solution2([1, 2, 3, 4, 4, 4, 7, 7, 12, 12, 13])); // 7
+console.log(solution2([])); // 0
+console.log(solution2([-2, -1, -1, 0, 1])); // 4
