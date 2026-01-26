@@ -61,3 +61,27 @@ console.log(maxSubarraySum2([1, 2, 5, 2, 8, 1, 5], 4)); // 17
 console.log(maxSubarraySum2([4, 2, 1, 6], 1)); // 6
 console.log(maxSubarraySum2([4, 2, 1, 6, 2], 4)); // 13
 console.log(maxSubarraySum2([], 4)); // null
+
+console.log('----');
+
+/**
+ * Refactor: Sliding Window 방법을 잘 활용하는 방법
+ */
+function maxSubarraySum3(arr, n) {
+  if (arr.length === 0) return null;
+
+  let tmpSum = arr.slice(0, n).reduce((acc, cur) => acc + cur, 0);
+  let maxSum = tmpSum;
+
+  for (let i = n; i < arr.length; i++) {
+    tmpSum = tmpSum + arr[i] - arr[i - n]; // n(윈도우)을 횔용한 1개 더하고(뒤에 있는 요소) 1개 빼는 방식(앞에 있는 요소)
+    maxSum = Math.max(maxSum, tmpSum);
+  }
+  return maxSum;
+}
+
+console.log(maxSubarraySum3([1, 2, 5, 2, 8, 1, 5], 2)); // 10
+console.log(maxSubarraySum3([1, 2, 5, 2, 8, 1, 5], 4)); // 17
+console.log(maxSubarraySum3([4, 2, 1, 6], 1)); // 6
+console.log(maxSubarraySum3([4, 2, 1, 6, 2], 4)); // 13
+console.log(maxSubarraySum3([], 4)); // null
