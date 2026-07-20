@@ -24,6 +24,10 @@
 
 - [JavaScript 알고리즘 & 자료구조 마스터클래스](https://www.udemy.com/course/best-javascript-data-structures/) 강의 속 문제들을 직접 풀어보면서 자료구조와 알고리즘의 동작 원리를 이해하고 나의 언어로 설명하는 것을 목표로 한다.
 
+## Part5
+
+- [코딩테스트 합격자되기:JS편](https://www.yes24.com/product/goods/128182419) 문제 풀기! 총 100문제
+
 ## Challenges
 
 > 나만의 알고리즘 챌린지를 기록해본다.
